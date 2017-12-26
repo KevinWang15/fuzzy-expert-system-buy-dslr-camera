@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D40",
+    "image": "//cdn.dxomark.com/dakdata/xml/D40/vignette3.png",
+    "brand": "Nikon",
+    "price": 400,
+    "pixelDepth": 6,
+    "pixels": 6122560,
+    "ISO": [
+        200,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1163606400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 2.5,
+    "resolution": [
+        3040,
+        2014
+    ],
+    "weight": null,
+    "autoFocus": null
+}

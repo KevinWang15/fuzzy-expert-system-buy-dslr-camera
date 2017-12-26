@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 1D Mark II N",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_1D_Mark_II_N/vignette3.png",
+    "brand": "Canon",
+    "price": 5986,
+    "pixelDepth": 8.2,
+    "pixels": 8486560,
+    "ISO": [
+        50,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1124640000000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 8.5,
+    "resolution": [
+        3596,
+        2360
+    ],
+    "weight": null,
+    "autoFocus": null
+}

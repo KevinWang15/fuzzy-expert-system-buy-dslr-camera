@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 1Ds Mark II",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_1Ds_Mark_II/vignette3.png",
+    "brand": "Canon",
+    "price": 6950,
+    "pixelDepth": 16.6,
+    "pixels": 17101584,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1095696000000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 4,
+    "resolution": [
+        5108,
+        3348
+    ],
+    "weight": null,
+    "autoFocus": null
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Sony Cyber-shot DSC-RX100 IV",
+    "image": "//cdn.dxomark.com/dakdata/xml/Cyber-shot_DSC-RX100_IV/vignette3.png",
+    "brand": "Sony",
+    "price": 948,
+    "pixelDepth": 20.1,
+    "pixels": 20181312,
+    "ISO": [
+        125,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1433865600000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 16,
+    "resolution": [
+        5496,
+        3672
+    ],
+    "weight": null,
+    "autoFocus": 25
+}

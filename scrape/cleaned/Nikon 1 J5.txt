@@ -1,0 +1,28 @@
+{
+    "name": "Nikon 1 J5",
+    "image": "//cdn.dxomark.com/dakdata/xml/1_J5/vignette3.png",
+    "brand": "Nikon",
+    "price": 500,
+    "pixelDepth": 20.8,
+    "pixels": 20794816,
+    "ISO": [
+        160,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1427904000000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": null,
+    "resolution": [
+        5584,
+        3724
+    ],
+    "weight": null,
+    "autoFocus": 171
+}

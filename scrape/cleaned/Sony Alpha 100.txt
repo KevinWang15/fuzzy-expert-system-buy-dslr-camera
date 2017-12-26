@@ -1,0 +1,28 @@
+{
+    "name": "Sony Alpha 100",
+    "image": "//cdn.dxomark.com/dakdata/xml/Alpha_100/vignette3.png",
+    "brand": "Sony",
+    "price": 427,
+    "pixelDepth": 10,
+    "pixels": 10119040,
+    "ISO": [
+        100,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1149436800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3880,
+        2608
+    ],
+    "weight": null,
+    "autoFocus": null
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D800E",
+    "image": "//cdn.dxomark.com/dakdata/xml/D800E/vignette3.png",
+    "brand": "Nikon",
+    "price": 3300,
+    "pixelDepth": 36.3,
+    "pixels": 36555776,
+    "ISO": [
+        50,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1328544000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 4,
+    "resolution": [
+        7424,
+        4924
+    ],
+    "weight": null,
+    "autoFocus": 51
+}

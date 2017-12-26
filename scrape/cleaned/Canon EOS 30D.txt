@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 30D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_30D/vignette3.png",
+    "brand": "Canon",
+    "price": 738,
+    "pixelDepth": 8.2,
+    "pixels": 8486560,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1140451200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        3596,
+        2360
+    ],
+    "weight": null,
+    "autoFocus": null
+}

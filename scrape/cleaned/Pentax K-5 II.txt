@@ -1,0 +1,28 @@
+{
+    "name": "Pentax K-5 II",
+    "image": "//cdn.dxomark.com/dakdata/xml/K-5_II/vignette3.png",
+    "brand": "Pentax",
+    "price": 999,
+    "pixelDepth": 16.3,
+    "pixels": 16084992,
+    "ISO": [
+        80,
+        51200
+    ],
+    "maxISO": 51200,
+    "launchDate": 1347292800000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": null,
+    "frameRate": 7,
+    "resolution": [
+        4928,
+        3264
+    ],
+    "weight": 680,
+    "autoFocus": 11
+}

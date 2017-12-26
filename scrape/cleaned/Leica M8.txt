@@ -1,0 +1,28 @@
+{
+    "name": "Leica M8",
+    "image": "//cdn.dxomark.com/dakdata/xml/M8/vignette3.png",
+    "brand": "Leica",
+    "price": 5495,
+    "pixelDepth": 10.3,
+    "pixels": 10340960,
+    "ISO": [
+        160,
+        2500
+    ],
+    "maxISO": 2500,
+    "launchDate": 1158163200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 2,
+    "resolution": [
+        3920,
+        2638
+    ],
+    "weight": null,
+    "autoFocus": null
+}

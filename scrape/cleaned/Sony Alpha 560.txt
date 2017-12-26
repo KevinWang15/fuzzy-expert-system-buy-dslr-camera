@@ -1,0 +1,28 @@
+{
+    "name": "Sony Alpha 560",
+    "image": "//cdn.dxomark.com/dakdata/xml/Alpha_560/vignette3.png",
+    "brand": "Sony",
+    "price": 650,
+    "pixelDepth": 14.2,
+    "pixels": 14033152,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1282579200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        4592,
+        3056
+    ],
+    "weight": null,
+    "autoFocus": 15
+}

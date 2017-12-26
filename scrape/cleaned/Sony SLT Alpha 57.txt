@@ -1,0 +1,28 @@
+{
+    "name": "Sony SLT Alpha 57",
+    "image": "//cdn.dxomark.com/dakdata/xml/SLT_Alpha_57/vignette3.png",
+    "brand": "Sony",
+    "price": 700,
+    "pixelDepth": 16.1,
+    "pixels": 16144128,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1331481600000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 12,
+    "resolution": [
+        4928,
+        3276
+    ],
+    "weight": 618,
+    "autoFocus": 15
+}

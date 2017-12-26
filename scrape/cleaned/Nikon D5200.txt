@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D5200",
+    "image": "//cdn.dxomark.com/dakdata/xml/D5200/vignette3.png",
+    "brand": "Nikon",
+    "price": 897,
+    "pixelDepth": 24.1,
+    "pixels": 24264720,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1352131200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        6036,
+        4020
+    ],
+    "weight": null,
+    "autoFocus": 39
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 350D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_350D/vignette3.png",
+    "brand": "Canon",
+    "price": 560,
+    "pixelDepth": 8,
+    "pixels": 8185248,
+    "ISO": [
+        100,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1108569600000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 2.8,
+    "resolution": [
+        3516,
+        2328
+    ],
+    "weight": null,
+    "autoFocus": null
+}

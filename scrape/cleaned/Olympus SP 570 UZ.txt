@@ -1,0 +1,28 @@
+{
+    "name": "Olympus SP 570 UZ",
+    "image": "//cdn.dxomark.com/dakdata/xml/SP_570_UZ/vignette3.png",
+    "brand": "Olympus",
+    "price": 520,
+    "pixelDepth": 10,
+    "pixels": 10046688,
+    "ISO": [
+        64,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1200931200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 1.2,
+    "resolution": [
+        3664,
+        2742
+    ],
+    "weight": null,
+    "autoFocus": null
+}

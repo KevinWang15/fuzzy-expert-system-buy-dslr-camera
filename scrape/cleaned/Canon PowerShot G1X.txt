@@ -1,0 +1,28 @@
+{
+    "name": "Canon PowerShot G1X",
+    "image": "//cdn.dxomark.com/dakdata/xml/PowerShot_G1X/vignette3.png",
+    "brand": "Canon",
+    "price": 799,
+    "pixelDepth": 14.3,
+    "pixels": 15133536,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1326038400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 4.5,
+    "resolution": [
+        4496,
+        3366
+    ],
+    "weight": 492,
+    "autoFocus": null
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D60",
+    "image": "//cdn.dxomark.com/dakdata/xml/D60/vignette3.png",
+    "brand": "Nikon",
+    "price": 470,
+    "pixelDepth": 10.2,
+    "pixels": 10212864,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1201536000000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3904,
+        2616
+    ],
+    "weight": null,
+    "autoFocus": null
+}

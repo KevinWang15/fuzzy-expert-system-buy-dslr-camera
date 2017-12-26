@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 5DS R",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_5DS_R/vignette3.png",
+    "brand": "Canon",
+    "price": 3900,
+    "pixelDepth": 50.6,
+    "pixels": 51158016,
+    "ISO": [
+        50,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1423152000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 5,
+    "resolution": [
+        8736,
+        5856
+    ],
+    "weight": 845,
+    "autoFocus": 61
+}

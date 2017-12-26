@@ -1,0 +1,28 @@
+{
+    "name": "Canon PowerShot G12",
+    "image": "//cdn.dxomark.com/dakdata/xml/PowerShot_G12/vignette3.png",
+    "brand": "Canon",
+    "price": 499,
+    "pixelDepth": 10,
+    "pixels": 9980928,
+    "ISO": [
+        80,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1284393600000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 2,
+    "resolution": [
+        3648,
+        2736
+    ],
+    "weight": null,
+    "autoFocus": null
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Pentax 645D",
+    "image": "//cdn.dxomark.com/dakdata/xml/645D/vignette3.png",
+    "brand": "Pentax",
+    "price": 9400,
+    "pixelDepth": 40,
+    "pixels": 41218048,
+    "ISO": [
+        100,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1267372800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 1.1,
+    "resolution": [
+        7424,
+        5552
+    ],
+    "weight": null,
+    "autoFocus": null
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Leica M10",
+    "image": "//cdn.dxomark.com/dakdata/xml/M10/vignette3.png",
+    "brand": "Leica",
+    "price": 6895,
+    "pixelDepth": 24,
+    "pixels": 23888128,
+    "ISO": [
+        100,
+        50000
+    ],
+    "maxISO": 50000,
+    "launchDate": 1484668800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 5,
+    "resolution": [
+        5984,
+        3992
+    ],
+    "weight": 590,
+    "autoFocus": 0
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Leica M Typ 240",
+    "image": "//cdn.dxomark.com/dakdata/xml/M_Typ_240/vignette3.png",
+    "brand": "Leica",
+    "price": 6950,
+    "pixelDepth": 24,
+    "pixels": 23936000,
+    "ISO": [
+        100,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1347811200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 3,
+    "resolution": [
+        5984,
+        4000
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

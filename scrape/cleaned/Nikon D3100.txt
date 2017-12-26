@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D3100",
+    "image": "//cdn.dxomark.com/dakdata/xml/D3100/vignette3.png",
+    "brand": "Nikon",
+    "price": 699,
+    "pixelDepth": 14.8,
+    "pixels": 14408448,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1285862400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        4672,
+        3084
+    ],
+    "weight": null,
+    "autoFocus": null
+}

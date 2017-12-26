@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DMC-GH3",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DMC-GH3/vignette3.png",
+    "brand": "Panasonic",
+    "price": 1300,
+    "pixelDepth": 16.05,
+    "pixels": 16054528,
+    "ISO": [
+        125,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1347811200000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 6,
+    "resolution": [
+        4624,
+        3472
+    ],
+    "weight": 470,
+    "autoFocus": 23
+}

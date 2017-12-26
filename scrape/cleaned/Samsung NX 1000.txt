@@ -1,0 +1,28 @@
+{
+    "name": "Samsung NX 1000",
+    "image": "//cdn.dxomark.com/dakdata/xml/NX_1000/vignette3.png",
+    "brand": "Samsung",
+    "price": 749,
+    "pixelDepth": 20.3,
+    "pixels": 20427820,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1334764800000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 8,
+    "resolution": [
+        5530,
+        3694
+    ],
+    "weight": null,
+    "autoFocus": 15
+}

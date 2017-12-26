@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic DMC FZ28",
+    "image": "//cdn.dxomark.com/dakdata/xml/DMC_FZ28/vignette3.png",
+    "brand": "Panasonic",
+    "price": 426,
+    "pixelDepth": 10.1,
+    "pixels": 10101672,
+    "ISO": [
+        100,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1216569600000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": null,
+    "resolution": [
+        3668,
+        2754
+    ],
+    "weight": null,
+    "autoFocus": null
+}

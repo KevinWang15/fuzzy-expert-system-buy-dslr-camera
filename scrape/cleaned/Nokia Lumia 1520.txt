@@ -1,0 +1,28 @@
+{
+    "name": "Nokia Lumia 1520",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumia_1520/vignette3.png",
+    "brand": "Nokia",
+    "price": 600,
+    "pixelDepth": 20,
+    "pixels": 18690048,
+    "ISO": [
+        100,
+        4000
+    ],
+    "maxISO": 4000,
+    "launchDate": 1384444800000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": true,
+    "gps": true,
+    "isMetal": null,
+    "frameRate": null,
+    "resolution": [
+        4992,
+        3744
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

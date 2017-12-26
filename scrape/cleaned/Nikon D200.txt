@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D200",
+    "image": "//cdn.dxomark.com/dakdata/xml/D200/vignette3.png",
+    "brand": "Nikon",
+    "price": 1000,
+    "pixelDepth": 10,
+    "pixels": 10212864,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1130774400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        3904,
+        2616
+    ],
+    "weight": null,
+    "autoFocus": null
+}

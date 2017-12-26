@@ -1,0 +1,28 @@
+{
+    "name": "Olympus XZ-2 iHS",
+    "image": "//cdn.dxomark.com/dakdata/xml/XZ-2_iHS/vignette3.png",
+    "brand": "Olympus",
+    "price": 549,
+    "pixelDepth": 12,
+    "pixels": 11896224,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1347811200000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 2,
+    "resolution": [
+        3984,
+        2986
+    ],
+    "weight": 346,
+    "autoFocus": 35
+}

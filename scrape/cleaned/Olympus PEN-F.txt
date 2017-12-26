@@ -1,0 +1,28 @@
+{
+    "name": "Olympus PEN-F",
+    "image": "//cdn.dxomark.com/dakdata/xml/PEN-F/vignette3.png",
+    "brand": "Olympus",
+    "price": 1200,
+    "pixelDepth": 20.3,
+    "pixels": 20300800,
+    "ISO": [
+        80,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1453824000000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 10,
+    "resolution": [
+        5200,
+        3904
+    ],
+    "weight": 373,
+    "autoFocus": 81
+}

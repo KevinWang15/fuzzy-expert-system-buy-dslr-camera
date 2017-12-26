@@ -1,0 +1,28 @@
+{
+    "name": "Pentax K5",
+    "image": "//cdn.dxomark.com/dakdata/xml/K5/vignette3.png",
+    "brand": "Pentax",
+    "price": 1600,
+    "pixelDepth": 16.3,
+    "pixels": 16084992,
+    "ISO": [
+        80,
+        51200
+    ],
+    "maxISO": 51200,
+    "launchDate": 1284912000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 7,
+    "resolution": [
+        4928,
+        3264
+    ],
+    "weight": 740,
+    "autoFocus": 11
+}

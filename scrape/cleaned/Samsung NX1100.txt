@@ -1,0 +1,28 @@
+{
+    "name": "Samsung NX1100",
+    "image": "//cdn.dxomark.com/dakdata/xml/NX1100/vignette3.png",
+    "brand": "Samsung",
+    "price": 600,
+    "pixelDepth": 20.3,
+    "pixels": 20427820,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1365609600000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 8,
+    "resolution": [
+        5530,
+        3694
+    ],
+    "weight": 222,
+    "autoFocus": 15
+}

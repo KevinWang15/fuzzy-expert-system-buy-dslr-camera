@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 1200D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_1200D/vignette3.png",
+    "brand": "Canon",
+    "price": 500,
+    "pixelDepth": 18,
+    "pixels": 18024930,
+    "ISO": [
+        100,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1392134400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        5202,
+        3465
+    ],
+    "weight": 435,
+    "autoFocus": 9
+}

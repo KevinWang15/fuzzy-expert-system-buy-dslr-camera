@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 50D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_50D/vignette3.png",
+    "brand": "Canon",
+    "price": 1300,
+    "pixelDepth": 15.1,
+    "pixels": 15154290,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1219680000000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        4770,
+        3177
+    ],
+    "weight": null,
+    "autoFocus": null
+}

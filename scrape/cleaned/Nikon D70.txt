@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D70",
+    "image": "//cdn.dxomark.com/dakdata/xml/D70/vignette3.png",
+    "brand": "Nikon",
+    "price": 400,
+    "pixelDepth": 6,
+    "pixels": 6122560,
+    "ISO": [
+        200,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1075219200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3040,
+        2014
+    ],
+    "weight": null,
+    "autoFocus": null
+}

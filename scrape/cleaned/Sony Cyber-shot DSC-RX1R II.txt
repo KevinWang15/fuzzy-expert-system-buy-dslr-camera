@@ -1,0 +1,28 @@
+{
+    "name": "Sony Cyber-shot DSC-RX1R II",
+    "image": "//cdn.dxomark.com/dakdata/xml/Cyber-shot_DSC-RX1R_II/vignette3.png",
+    "brand": "Sony",
+    "price": 3300,
+    "pixelDepth": 42.4,
+    "pixels": 42560000,
+    "ISO": [
+        50,
+        102400
+    ],
+    "maxISO": 102400,
+    "launchDate": 1444752000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 5,
+    "resolution": [
+        8000,
+        5320
+    ],
+    "weight": null,
+    "autoFocus": 399
+}

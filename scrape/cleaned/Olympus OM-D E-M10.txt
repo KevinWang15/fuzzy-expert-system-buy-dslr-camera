@@ -1,0 +1,28 @@
+{
+    "name": "Olympus OM-D E-M10",
+    "image": "//cdn.dxomark.com/dakdata/xml/OM-D_E-M10/vignette3.png",
+    "brand": "Olympus",
+    "price": 700,
+    "pixelDepth": 16.1,
+    "pixels": 16110080,
+    "ISO": [
+        200,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1390924800000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 8,
+    "resolution": [
+        4640,
+        3472
+    ],
+    "weight": null,
+    "autoFocus": 81
+}

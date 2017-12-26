@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D5100",
+    "image": "//cdn.dxomark.com/dakdata/xml/D5100/vignette3.png",
+    "brand": "Nikon",
+    "price": 799,
+    "pixelDepth": 16.2,
+    "pixels": 16373760,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1301932800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 4,
+    "resolution": [
+        4992,
+        3280
+    ],
+    "weight": null,
+    "autoFocus": null
+}

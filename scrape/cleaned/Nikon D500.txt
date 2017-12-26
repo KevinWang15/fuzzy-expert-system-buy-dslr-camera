@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D500",
+    "image": "//cdn.dxomark.com/dakdata/xml/D500/vignette3.png",
+    "brand": "Nikon",
+    "price": 2000,
+    "pixelDepth": 20.9,
+    "pixels": 20873072,
+    "ISO": [
+        50,
+        1640000
+    ],
+    "maxISO": 1640000,
+    "launchDate": 1452009600000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": true,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 10,
+    "resolution": [
+        5599,
+        3728
+    ],
+    "weight": 670,
+    "autoFocus": 153
+}

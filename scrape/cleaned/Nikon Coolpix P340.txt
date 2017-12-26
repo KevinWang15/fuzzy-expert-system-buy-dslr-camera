@@ -1,0 +1,28 @@
+{
+    "name": "Nikon Coolpix P340",
+    "image": "//cdn.dxomark.com/dakdata/xml/Coolpix_P340/vignette3.png",
+    "brand": "Nikon",
+    "price": 380,
+    "pixelDepth": 12.2,
+    "pixels": 12192768,
+    "ISO": [
+        80,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1391616000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": null,
+    "frameRate": 10,
+    "resolution": [
+        4032,
+        3024
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

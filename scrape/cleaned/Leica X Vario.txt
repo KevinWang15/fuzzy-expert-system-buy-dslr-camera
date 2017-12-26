@@ -1,0 +1,28 @@
+{
+    "name": "Leica X Vario",
+    "image": "//cdn.dxomark.com/dakdata/xml/X_Vario/vignette3.png",
+    "brand": "Leica",
+    "price": 2850,
+    "pixelDepth": 16.2,
+    "pixels": 16186656,
+    "ISO": [
+        100,
+        12500
+    ],
+    "maxISO": 12500,
+    "launchDate": 1370880000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 5,
+    "resolution": [
+        4944,
+        3274
+    ],
+    "weight": null,
+    "autoFocus": 11
+}

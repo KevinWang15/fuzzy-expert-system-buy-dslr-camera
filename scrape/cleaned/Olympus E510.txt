@@ -1,0 +1,28 @@
+{
+    "name": "Olympus E510",
+    "image": "//cdn.dxomark.com/dakdata/xml/E510/vignette3.png",
+    "brand": "Olympus",
+    "price": 593,
+    "pixelDepth": 10,
+    "pixels": 10416000,
+    "ISO": [
+        100,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1173024000000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3720,
+        2800
+    ],
+    "weight": null,
+    "autoFocus": null
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Olympus PEN E-P5",
+    "image": "//cdn.dxomark.com/dakdata/xml/PEN_E-P5/vignette3.png",
+    "brand": "Olympus",
+    "price": 1000,
+    "pixelDepth": 16.1,
+    "pixels": 16110080,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1368115200000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 9,
+    "resolution": [
+        4640,
+        3472
+    ],
+    "weight": null,
+    "autoFocus": 35
+}

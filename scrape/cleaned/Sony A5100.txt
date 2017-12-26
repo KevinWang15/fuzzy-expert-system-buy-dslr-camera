@@ -1,0 +1,28 @@
+{
+    "name": "Sony A5100",
+    "image": "//cdn.dxomark.com/dakdata/xml/A5100/vignette3.png",
+    "brand": "Sony",
+    "price": 550,
+    "pixelDepth": 24.3,
+    "pixels": 24240576,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1408291200000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 6,
+    "resolution": [
+        6024,
+        4024
+    ],
+    "weight": 224,
+    "autoFocus": 179
+}

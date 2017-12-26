@@ -1,0 +1,28 @@
+{
+    "name": "Samsung NX500",
+    "image": "//cdn.dxomark.com/dakdata/xml/NX500/vignette3.png",
+    "brand": "Samsung",
+    "price": 800,
+    "pixelDepth": 28,
+    "pixels": 28166656,
+    "ISO": [
+        100,
+        51200
+    ],
+    "maxISO": 51200,
+    "launchDate": 1423065600000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": true,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 9,
+    "resolution": [
+        6496,
+        4336
+    ],
+    "weight": 286,
+    "autoFocus": 209
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Pentax KM",
+    "image": "//cdn.dxomark.com/dakdata/xml/KM/vignette3.png",
+    "brand": "Pentax",
+    "price": 550,
+    "pixelDepth": 10.2,
+    "pixels": 10191936,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1222012800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3.5,
+    "resolution": [
+        3896,
+        2616
+    ],
+    "weight": null,
+    "autoFocus": null
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Olympus XZ1",
+    "image": "//cdn.dxomark.com/dakdata/xml/XZ1/vignette3.png",
+    "brand": "Olympus",
+    "price": 494,
+    "pixelDepth": 10,
+    "pixels": 10156800,
+    "ISO": [
+        100,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1294243200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 2,
+    "resolution": [
+        3680,
+        2760
+    ],
+    "weight": 275,
+    "autoFocus": 11
+}

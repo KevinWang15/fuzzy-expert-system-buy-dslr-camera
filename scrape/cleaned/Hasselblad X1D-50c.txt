@@ -1,0 +1,28 @@
+{
+    "name": "Hasselblad X1D-50c",
+    "image": "//cdn.dxomark.com/dakdata/xml/X1D-50c/vignette3.png",
+    "brand": "Hasselblad",
+    "price": 8995,
+    "pixelDepth": 50,
+    "pixels": 51402240,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1466524800000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 2.3,
+    "resolution": [
+        8280,
+        6208
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

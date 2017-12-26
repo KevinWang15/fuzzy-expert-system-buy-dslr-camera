@@ -1,0 +1,28 @@
+{
+    "name": "Sony Alpha 500",
+    "image": "//cdn.dxomark.com/dakdata/xml/Alpha_500/vignette3.png",
+    "brand": "Sony",
+    "price": 699,
+    "pixelDepth": 12.3,
+    "pixels": 12166656,
+    "ISO": [
+        200,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1251302400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        4272,
+        2848
+    ],
+    "weight": null,
+    "autoFocus": null
+}

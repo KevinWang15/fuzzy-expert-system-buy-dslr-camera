@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D7500",
+    "image": "//cdn.dxomark.com/dakdata/xml/D7500/vignette3.png",
+    "brand": "Nikon",
+    "price": 1250,
+    "pixelDepth": 20.9,
+    "pixels": 20876800,
+    "ISO": [
+        100,
+        1640000
+    ],
+    "maxISO": 1640000,
+    "launchDate": 1491926400000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": true,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 8,
+    "resolution": [
+        5600,
+        3728
+    ],
+    "weight": null,
+    "autoFocus": 51
+}

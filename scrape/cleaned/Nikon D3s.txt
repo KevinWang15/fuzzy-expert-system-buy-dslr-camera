@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D3s",
+    "image": "//cdn.dxomark.com/dakdata/xml/D3s/vignette3.png",
+    "brand": "Nikon",
+    "price": 5510,
+    "pixelDepth": 12.1,
+    "pixels": 12195072,
+    "ISO": [
+        100,
+        102400
+    ],
+    "maxISO": 102400,
+    "launchDate": 1255449600000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 9,
+    "resolution": [
+        4288,
+        2844
+    ],
+    "weight": 1240,
+    "autoFocus": 0
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Sony Alpha 200",
+    "image": "//cdn.dxomark.com/dakdata/xml/Alpha_200/vignette3.png",
+    "brand": "Sony",
+    "price": 611,
+    "pixelDepth": 10.2,
+    "pixels": 10119040,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1199635200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3880,
+        2608
+    ],
+    "weight": null,
+    "autoFocus": null
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Samsung NX2000",
+    "image": "//cdn.dxomark.com/dakdata/xml/NX2000/vignette3.png",
+    "brand": "Samsung",
+    "price": 649,
+    "pixelDepth": 20.3,
+    "pixels": 20560704,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1367337600000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 8,
+    "resolution": [
+        5536,
+        3714
+    ],
+    "weight": 228,
+    "autoFocus": 0
+}

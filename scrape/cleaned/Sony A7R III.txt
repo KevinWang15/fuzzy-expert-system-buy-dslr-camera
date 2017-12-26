@@ -1,0 +1,28 @@
+{
+    "name": "Sony A7R III",
+    "image": "//cdn.dxomark.com/dakdata/xml/A7R_III/vignette3.png",
+    "brand": "Sony",
+    "price": 3200,
+    "pixelDepth": 42.4,
+    "pixels": 42560000,
+    "ISO": [
+        100,
+        32000
+    ],
+    "maxISO": 32000,
+    "launchDate": 1508860800000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": true,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 10,
+    "resolution": [
+        8000,
+        5320
+    ],
+    "weight": null,
+    "autoFocus": 425
+}

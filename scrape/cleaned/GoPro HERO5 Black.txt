@@ -1,0 +1,28 @@
+{
+    "name": "GoPro HERO5 Black",
+    "image": "//cdn.dxomark.com/dakdata/xml/HERO5_Black/vignette3.png",
+    "brand": "GoPro",
+    "price": 400,
+    "pixelDepth": 12,
+    "pixels": 12000000,
+    "ISO": [
+        100,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1474214400000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": true,
+    "gps": true,
+    "isMetal": null,
+    "frameRate": 30,
+    "resolution": [
+        4000,
+        3000
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

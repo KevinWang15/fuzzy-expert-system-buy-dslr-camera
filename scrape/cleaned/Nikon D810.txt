@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D810",
+    "image": "//cdn.dxomark.com/dakdata/xml/D810/vignette3.png",
+    "brand": "Nikon",
+    "price": 3300,
+    "pixelDepth": 36.3,
+    "pixels": 36368640,
+    "ISO": [
+        64,
+        51200
+    ],
+    "maxISO": 51200,
+    "launchDate": 1403712000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 5,
+    "resolution": [
+        7380,
+        4928
+    ],
+    "weight": 880,
+    "autoFocus": 51
+}

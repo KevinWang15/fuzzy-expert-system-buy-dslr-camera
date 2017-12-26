@@ -1,0 +1,28 @@
+{
+    "name": "Pentax K10D",
+    "image": "//cdn.dxomark.com/dakdata/xml/K10D/vignette3.png",
+    "brand": "Pentax",
+    "price": 900,
+    "pixelDepth": 10,
+    "pixels": 10328064,
+    "ISO": [
+        100,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1158076800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3936,
+        2624
+    ],
+    "weight": null,
+    "autoFocus": null
+}

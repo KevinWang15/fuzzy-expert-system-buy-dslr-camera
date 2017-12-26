@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DMC GF5",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DMC_GF5/vignette3.png",
+    "brand": "Panasonic",
+    "price": 599,
+    "pixelDepth": 12.1,
+    "pixels": 12112256,
+    "ISO": [
+        160,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1333555200000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 4,
+    "resolution": [
+        4016,
+        3016
+    ],
+    "weight": null,
+    "autoFocus": 23
+}

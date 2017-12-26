@@ -1,0 +1,28 @@
+{
+    "name": "Nikon Coolpix P7000",
+    "image": "//cdn.dxomark.com/dakdata/xml/Coolpix_P7000/vignette3.png",
+    "brand": "Nikon",
+    "price": 500,
+    "pixelDepth": 10.1,
+    "pixels": 10046688,
+    "ISO": [
+        100,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1283875200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 1.3,
+    "resolution": [
+        3664,
+        2742
+    ],
+    "weight": null,
+    "autoFocus": 99
+}

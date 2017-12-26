@@ -1,0 +1,28 @@
+{
+    "name": "Olympus Stylus1",
+    "image": "//cdn.dxomark.com/dakdata/xml/Stylus1/vignette3.png",
+    "brand": "Olympus",
+    "price": 699,
+    "pixelDepth": 12,
+    "pixels": 11968000,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1382976000000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 7,
+    "resolution": [
+        4000,
+        2992
+    ],
+    "weight": null,
+    "autoFocus": 25
+}

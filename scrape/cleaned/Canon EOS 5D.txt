@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 5D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_5D/vignette3.png",
+    "brand": "Canon",
+    "price": 2000,
+    "pixelDepth": 12.7,
+    "pixels": 13222104,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1124640000000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        4476,
+        2954
+    ],
+    "weight": null,
+    "autoFocus": null
+}

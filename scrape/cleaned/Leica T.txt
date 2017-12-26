@@ -1,0 +1,28 @@
+{
+    "name": "Leica T",
+    "image": "//cdn.dxomark.com/dakdata/xml/T/vignette3.png",
+    "brand": "Leica",
+    "price": 1850,
+    "pixelDepth": 16,
+    "pixels": 16206432,
+    "ISO": [
+        100,
+        12500
+    ],
+    "maxISO": 12500,
+    "launchDate": 1398268800000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 5,
+    "resolution": [
+        4944,
+        3278
+    ],
+    "weight": 339,
+    "autoFocus": 0
+}

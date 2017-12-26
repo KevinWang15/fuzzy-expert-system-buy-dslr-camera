@@ -1,0 +1,28 @@
+{
+    "name": "Canon PowerShot S90",
+    "image": "//cdn.dxomark.com/dakdata/xml/PowerShot_S90/vignette3.png",
+    "brand": "Canon",
+    "price": 420,
+    "pixelDepth": 10,
+    "pixels": 10423296,
+    "ISO": [
+        80,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1250611200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 0.9,
+    "resolution": [
+        3744,
+        2784
+    ],
+    "weight": null,
+    "autoFocus": null
+}

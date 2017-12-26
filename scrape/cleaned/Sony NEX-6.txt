@@ -1,0 +1,28 @@
+{
+    "name": "Sony NEX-6",
+    "image": "//cdn.dxomark.com/dakdata/xml/NEX-6/vignette3.png",
+    "brand": "Sony",
+    "price": 848,
+    "pixelDepth": 16.1,
+    "pixels": 16032768,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1347379200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 10,
+    "resolution": [
+        4912,
+        3264
+    ],
+    "weight": 287,
+    "autoFocus": 99
+}

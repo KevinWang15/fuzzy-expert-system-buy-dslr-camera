@@ -1,0 +1,28 @@
+{
+    "name": "Sony SLT Alpha 35",
+    "image": "//cdn.dxomark.com/dakdata/xml/SLT_Alpha_35/vignette3.png",
+    "brand": "Sony",
+    "price": 600,
+    "pixelDepth": 16,
+    "pixels": 16032768,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1307462400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 2.5,
+    "resolution": [
+        4912,
+        3264
+    ],
+    "weight": null,
+    "autoFocus": 15
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 1D Mark IV",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_1D_Mark_IV/vignette3.png",
+    "brand": "Canon",
+    "price": 5840,
+    "pixelDepth": 16.1,
+    "pixels": 15980544,
+    "ISO": [
+        50,
+        102400
+    ],
+    "maxISO": 102400,
+    "launchDate": 1255968000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": null,
+    "frameRate": 10,
+    "resolution": [
+        4896,
+        3264
+    ],
+    "weight": 1180,
+    "autoFocus": 0
+}

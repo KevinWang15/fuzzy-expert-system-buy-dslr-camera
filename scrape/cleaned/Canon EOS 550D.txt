@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 550D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_550D/vignette3.png",
+    "brand": "Canon",
+    "price": 1000,
+    "pixelDepth": 18,
+    "pixels": 17915904,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1267113600000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3.7,
+    "resolution": [
+        5184,
+        3456
+    ],
+    "weight": null,
+    "autoFocus": 9
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Pentax K20D",
+    "image": "//cdn.dxomark.com/dakdata/xml/K20D/vignette3.png",
+    "brand": "Pentax",
+    "price": 770,
+    "pixelDepth": 14.6,
+    "pixels": 14645312,
+    "ISO": [
+        100,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1201017600000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        4688,
+        3124
+    ],
+    "weight": null,
+    "autoFocus": null
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Mamiya ZD Back",
+    "image": "//cdn.dxomark.com/dakdata/xml/ZD_Back/vignette3.png",
+    "brand": "Mamiya",
+    "price": 6999,
+    "pixelDepth": 21.5,
+    "pixels": 21461504,
+    "ISO": [
+        50,
+        400
+    ],
+    "maxISO": 400,
+    "launchDate": 1220198400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 1.2,
+    "resolution": [
+        5344,
+        4016
+    ],
+    "weight": null,
+    "autoFocus": null
+}

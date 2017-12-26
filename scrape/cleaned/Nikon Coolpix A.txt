@@ -1,0 +1,28 @@
+{
+    "name": "Nikon Coolpix A",
+    "image": "//cdn.dxomark.com/dakdata/xml/Coolpix_A/vignette3.png",
+    "brand": "Nikon",
+    "price": 1100,
+    "pixelDepth": 16.2,
+    "pixels": 16373760,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1362326400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 4,
+    "resolution": [
+        4992,
+        3280
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

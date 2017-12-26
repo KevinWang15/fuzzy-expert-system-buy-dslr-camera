@@ -1,0 +1,28 @@
+{
+    "name": "Canon PowerShot SX50 HS",
+    "image": "//cdn.dxomark.com/dakdata/xml/PowerShot_SX50_HS/vignette3.png",
+    "brand": "Canon",
+    "price": 480,
+    "pixelDepth": 12.1,
+    "pixels": 12786912,
+    "ISO": [
+        80,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1347811200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 10,
+    "resolution": [
+        4176,
+        3062
+    ],
+    "weight": 551,
+    "autoFocus": 9
+}

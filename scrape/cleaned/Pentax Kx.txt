@@ -1,0 +1,28 @@
+{
+    "name": "Pentax Kx",
+    "image": "//cdn.dxomark.com/dakdata/xml/Kx/vignette3.png",
+    "brand": "Pentax",
+    "price": 640,
+    "pixelDepth": 12.4,
+    "pixels": 12358212,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1253116800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 4.7,
+    "resolution": [
+        4309,
+        2868
+    ],
+    "weight": null,
+    "autoFocus": null
+}

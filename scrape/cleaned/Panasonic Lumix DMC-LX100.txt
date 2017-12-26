@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DMC-LX100",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DMC-LX100/vignette3.png",
+    "brand": "Panasonic",
+    "price": 899,
+    "pixelDepth": 12.8,
+    "pixels": 12813312,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1410710400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 11,
+    "resolution": [
+        4128,
+        3104
+    ],
+    "weight": null,
+    "autoFocus": 49
+}

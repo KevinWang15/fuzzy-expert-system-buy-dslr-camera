@@ -1,0 +1,28 @@
+{
+    "name": "Pentax Kr",
+    "image": "//cdn.dxomark.com/dakdata/xml/Kr/vignette3.png",
+    "brand": "Pentax",
+    "price": 700,
+    "pixelDepth": 12.4,
+    "pixels": 12212224,
+    "ISO": [
+        200,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1286553600000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 6,
+    "resolution": [
+        4288,
+        2848
+    ],
+    "weight": 544.31,
+    "autoFocus": 11
+}

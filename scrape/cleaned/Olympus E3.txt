@@ -1,0 +1,28 @@
+{
+    "name": "Olympus E3",
+    "image": "//cdn.dxomark.com/dakdata/xml/E3/vignette3.png",
+    "brand": "Olympus",
+    "price": 1300,
+    "pixelDepth": 10.1,
+    "pixels": 10416000,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1192464000000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        3720,
+        2800
+    ],
+    "weight": null,
+    "autoFocus": null
+}

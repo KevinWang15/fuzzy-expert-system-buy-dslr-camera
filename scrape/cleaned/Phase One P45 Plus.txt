@@ -1,0 +1,28 @@
+{
+    "name": "Phase One P45 Plus",
+    "image": "//cdn.dxomark.com/dakdata/xml/P45_Plus/vignette3.png",
+    "brand": "Phase One",
+    "price": 32990,
+    "pixelDepth": 39,
+    "pixels": 39447224,
+    "ISO": [
+        50,
+        800
+    ],
+    "maxISO": 800,
+    "launchDate": 1167580800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 0.67,
+    "resolution": [
+        7246,
+        5444
+    ],
+    "weight": null,
+    "autoFocus": null
+}

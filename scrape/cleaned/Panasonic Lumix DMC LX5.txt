@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DMC LX5",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DMC_LX5/vignette3.png",
+    "brand": "Panasonic",
+    "price": 470,
+    "pixelDepth": 10.1,
+    "pixels": 9980928,
+    "ISO": [
+        80,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1279641600000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        3648,
+        2736
+    ],
+    "weight": null,
+    "autoFocus": 23
+}

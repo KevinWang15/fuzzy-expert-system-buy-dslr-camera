@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 5D Mark II",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_5D_Mark_II/vignette3.png",
+    "brand": "Canon",
+    "price": 2199,
+    "pixelDepth": 21,
+    "pixels": 21144402,
+    "ISO": [
+        50,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1221580800000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3.9,
+    "resolution": [
+        5634,
+        3753
+    ],
+    "weight": 810,
+    "autoFocus": 9
+}

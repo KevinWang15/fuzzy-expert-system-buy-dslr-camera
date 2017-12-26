@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 1100D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_1100D/vignette3.png",
+    "brand": "Canon",
+    "price": 599,
+    "pixelDepth": 12.2,
+    "pixels": 12507648,
+    "ISO": [
+        100,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1297008000000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        4352,
+        2874
+    ],
+    "weight": 495,
+    "autoFocus": 9
+}

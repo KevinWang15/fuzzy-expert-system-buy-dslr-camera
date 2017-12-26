@@ -1,0 +1,28 @@
+{
+    "name": "Hasselblad H3DII 39",
+    "image": "//cdn.dxomark.com/dakdata/xml/H3DII_39/vignette3.png",
+    "brand": "Hasselblad",
+    "price": 22000,
+    "pixelDepth": 39,
+    "pixels": 39458112,
+    "ISO": [
+        50,
+        400
+    ],
+    "maxISO": 400,
+    "launchDate": 1196006400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 0.7,
+    "resolution": [
+        7248,
+        5444
+    ],
+    "weight": null,
+    "autoFocus": null
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 6D Mark II",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_6D_Mark_II/vignette3.png",
+    "brand": "Canon",
+    "price": 2000,
+    "pixelDepth": 26.2,
+    "pixels": 26966016,
+    "ISO": [
+        50,
+        102400
+    ],
+    "maxISO": 102400,
+    "launchDate": 1498665600000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": true,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 6.5,
+    "resolution": [
+        6384,
+        4224
+    ],
+    "weight": 685,
+    "autoFocus": 45
+}

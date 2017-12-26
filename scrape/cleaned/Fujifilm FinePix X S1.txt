@@ -1,0 +1,28 @@
+{
+    "name": "Fujifilm FinePix X S1",
+    "image": "//cdn.dxomark.com/dakdata/xml/FinePix_X_S1/vignette3.png",
+    "brand": "Fujifilm",
+    "price": 699,
+    "pixelDepth": 12,
+    "pixels": 12000000,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1322064000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 7,
+    "resolution": [
+        4000,
+        3000
+    ],
+    "weight": 880,
+    "autoFocus": 49
+}

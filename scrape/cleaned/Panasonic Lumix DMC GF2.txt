@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DMC GF2",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DMC_GF2/vignette3.png",
+    "brand": "Panasonic",
+    "price": 599,
+    "pixelDepth": 12.1,
+    "pixels": 12329408,
+    "ISO": [
+        100,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1288800000000,
+    "touchScreen": true,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        4088,
+        3016
+    ],
+    "weight": 265,
+    "autoFocus": 23
+}

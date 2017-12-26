@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 7D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_7D/vignette3.png",
+    "brand": "Canon",
+    "price": 1974,
+    "pixelDepth": 18,
+    "pixels": 18840400,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1251734400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 8,
+    "resolution": [
+        5360,
+        3515
+    ],
+    "weight": 820,
+    "autoFocus": 0
+}

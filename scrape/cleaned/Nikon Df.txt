@@ -1,0 +1,28 @@
+{
+    "name": "Nikon Df",
+    "image": "//cdn.dxomark.com/dakdata/xml/Df/vignette3.png",
+    "brand": "Nikon",
+    "price": 2749,
+    "pixelDepth": 16.2,
+    "pixels": 16433664,
+    "ISO": [
+        100,
+        204800
+    ],
+    "maxISO": 204800,
+    "launchDate": 1383580800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 5.5,
+    "resolution": [
+        4992,
+        3292
+    ],
+    "weight": 710,
+    "autoFocus": 39
+}

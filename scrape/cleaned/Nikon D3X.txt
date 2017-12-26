@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D3X",
+    "image": "//cdn.dxomark.com/dakdata/xml/D3X/vignette3.png",
+    "brand": "Nikon",
+    "price": 9172,
+    "pixelDepth": 24.5,
+    "pixels": 24587520,
+    "ISO": [
+        50,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1228060800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        6080,
+        4044
+    ],
+    "weight": null,
+    "autoFocus": null
+}

@@ -1,0 +1,28 @@
+{
+    "name": "DJI Phantom4 Pro",
+    "image": "//cdn.dxomark.com/dakdata/xml/Phantom4_Pro/vignette3.png",
+    "brand": "DJI",
+    "price": 1500,
+    "pixelDepth": 20,
+    "pixels": 19961856,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1479139200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 14,
+    "resolution": [
+        5472,
+        3648
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

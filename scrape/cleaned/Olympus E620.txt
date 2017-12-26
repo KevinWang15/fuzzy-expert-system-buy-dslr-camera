@@ -1,0 +1,28 @@
+{
+    "name": "Olympus E620",
+    "image": "//cdn.dxomark.com/dakdata/xml/E620/vignette3.png",
+    "brand": "Olympus",
+    "price": 618,
+    "pixelDepth": 12.3,
+    "pixels": 12644400,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1235404800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 4,
+    "resolution": [
+        4100,
+        3084
+    ],
+    "weight": null,
+    "autoFocus": null
+}

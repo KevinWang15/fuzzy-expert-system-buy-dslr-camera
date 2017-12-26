@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DMC LX3",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DMC_LX3/vignette3.png",
+    "brand": "Panasonic",
+    "price": 450,
+    "pixelDepth": 10.1,
+    "pixels": 10101672,
+    "ISO": [
+        80,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1219248000000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 2.5,
+    "resolution": [
+        3668,
+        2754
+    ],
+    "weight": null,
+    "autoFocus": null
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 1Dx",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_1Dx/vignette3.png",
+    "brand": "Canon",
+    "price": 6800,
+    "pixelDepth": 18.1,
+    "pixels": 18378666,
+    "ISO": [
+        50,
+        204800
+    ],
+    "maxISO": 204800,
+    "launchDate": 1318867200000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 14,
+    "resolution": [
+        5202,
+        3533
+    ],
+    "weight": null,
+    "autoFocus": 61
+}

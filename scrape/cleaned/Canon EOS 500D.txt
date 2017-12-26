@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 500D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_500D/vignette3.png",
+    "brand": "Canon",
+    "price": 1040,
+    "pixelDepth": 15.1,
+    "pixels": 15039810,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1237910400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3.4,
+    "resolution": [
+        4770,
+        3153
+    ],
+    "weight": null,
+    "autoFocus": null
+}

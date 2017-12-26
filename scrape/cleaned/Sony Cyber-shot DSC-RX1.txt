@@ -1,0 +1,28 @@
+{
+    "name": "Sony Cyber-shot DSC-RX1",
+    "image": "//cdn.dxomark.com/dakdata/xml/Cyber-shot_DSC-RX1/vignette3.png",
+    "brand": "Sony",
+    "price": 2800,
+    "pixelDepth": 24.3,
+    "pixels": 24240576,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1347379200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        6024,
+        4024
+    ],
+    "weight": 453,
+    "autoFocus": 25
+}

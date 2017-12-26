@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 300D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_300D/vignette3.png",
+    "brand": "Canon",
+    "price": 324,
+    "pixelDepth": 6.3,
+    "pixels": 6518336,
+    "ISO": [
+        100,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1061308800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 2.5,
+    "resolution": [
+        3152,
+        2068
+    ],
+    "weight": null,
+    "autoFocus": null
+}

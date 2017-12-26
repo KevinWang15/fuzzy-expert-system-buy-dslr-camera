@@ -1,0 +1,28 @@
+{
+    "name": "Nikon Coolpix P330",
+    "image": "//cdn.dxomark.com/dakdata/xml/Coolpix_P330/vignette3.png",
+    "brand": "Nikon",
+    "price": 380,
+    "pixelDepth": 12.2,
+    "pixels": 12192768,
+    "ISO": [
+        80,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1362326400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 10,
+    "resolution": [
+        4032,
+        3024
+    ],
+    "weight": 200,
+    "autoFocus": 0
+}

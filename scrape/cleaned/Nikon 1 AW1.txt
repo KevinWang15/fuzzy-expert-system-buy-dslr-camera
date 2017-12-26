@@ -1,0 +1,28 @@
+{
+    "name": "Nikon 1 AW1",
+    "image": "//cdn.dxomark.com/dakdata/xml/1_AW1/vignette3.png",
+    "brand": "Nikon",
+    "price": 800,
+    "pixelDepth": 14.2,
+    "pixels": 14238840,
+    "ISO": [
+        160,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1379520000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 5,
+    "resolution": [
+        4620,
+        3082
+    ],
+    "weight": 313,
+    "autoFocus": 135
+}

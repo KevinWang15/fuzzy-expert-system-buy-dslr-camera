@@ -1,0 +1,28 @@
+{
+    "name": "Leica S",
+    "image": "//cdn.dxomark.com/dakdata/xml/S/vignette3.png",
+    "brand": "Leica",
+    "price": 21950,
+    "pixelDepth": 37.5,
+    "pixels": 37600000,
+    "ISO": [
+        100,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1347811200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 1.5,
+    "resolution": [
+        7520,
+        5000
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

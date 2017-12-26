@@ -1,0 +1,28 @@
+{
+    "name": "Pentax K-50",
+    "image": "//cdn.dxomark.com/dakdata/xml/K-50/vignette3.png",
+    "brand": "Pentax",
+    "price": 599,
+    "pixelDepth": 16.28,
+    "pixels": 16150592,
+    "ISO": [
+        100,
+        51600
+    ],
+    "maxISO": 51600,
+    "launchDate": 1370966400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 6,
+    "resolution": [
+        4936,
+        3272
+    ],
+    "weight": 590,
+    "autoFocus": 11
+}

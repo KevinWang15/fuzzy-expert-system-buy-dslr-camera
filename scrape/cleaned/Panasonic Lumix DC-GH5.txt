@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DC-GH5",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DC-GH5/vignette3.png",
+    "brand": "Panasonic",
+    "price": 2000,
+    "pixelDepth": 20.3,
+    "pixels": 20332032,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1483459200000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": true,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 12,
+    "resolution": [
+        5208,
+        3904
+    ],
+    "weight": 645,
+    "autoFocus": 225
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Fujifilm FinePix F800EXR",
+    "image": "//cdn.dxomark.com/dakdata/xml/FinePix_F800EXR/vignette3.png",
+    "brand": "Fujifilm",
+    "price": 349,
+    "pixelDepth": 16,
+    "pixels": 16076305,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1343145600000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": null,
+    "resolution": [
+        4613,
+        3485
+    ],
+    "weight": 208,
+    "autoFocus": 0
+}

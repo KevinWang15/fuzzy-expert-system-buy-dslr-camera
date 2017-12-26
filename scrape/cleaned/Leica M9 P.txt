@@ -1,0 +1,28 @@
+{
+    "name": "Leica M9 P",
+    "image": "//cdn.dxomark.com/dakdata/xml/M9_P/vignette3.png",
+    "brand": "Leica",
+    "price": 6950,
+    "pixelDepth": 18,
+    "pixels": 18109952,
+    "ISO": [
+        80,
+        2500
+    ],
+    "maxISO": 2500,
+    "launchDate": 1295539200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 2,
+    "resolution": [
+        5216,
+        3472
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

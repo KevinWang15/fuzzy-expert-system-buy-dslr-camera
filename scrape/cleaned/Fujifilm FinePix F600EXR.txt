@@ -1,0 +1,28 @@
+{
+    "name": "Fujifilm FinePix F600EXR",
+    "image": "//cdn.dxomark.com/dakdata/xml/FinePix_F600EXR/vignette3.png",
+    "brand": "Fujifilm",
+    "price": 500,
+    "pixelDepth": 16,
+    "pixels": 8037568,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1312992000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": null,
+    "frameRate": null,
+    "resolution": [
+        3262,
+        2464
+    ],
+    "weight": null,
+    "autoFocus": 256
+}

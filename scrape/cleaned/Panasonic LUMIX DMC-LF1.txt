@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic LUMIX DMC-LF1",
+    "image": "//cdn.dxomark.com/dakdata/xml/LUMIX_DMC-LF1/vignette3.png",
+    "brand": "Panasonic",
+    "price": 500,
+    "pixelDepth": 12.1,
+    "pixels": 12112256,
+    "ISO": [
+        80,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1366732800000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 10,
+    "resolution": [
+        4016,
+        3016
+    ],
+    "weight": null,
+    "autoFocus": 23
+}

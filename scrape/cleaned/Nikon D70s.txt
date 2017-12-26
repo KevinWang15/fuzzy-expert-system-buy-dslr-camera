@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D70s",
+    "image": "//cdn.dxomark.com/dakdata/xml/D70s/vignette3.png",
+    "brand": "Nikon",
+    "price": 700,
+    "pixelDepth": 6.1,
+    "pixels": 6122560,
+    "ISO": [
+        200,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1113926400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3040,
+        2014
+    ],
+    "weight": null,
+    "autoFocus": null
+}

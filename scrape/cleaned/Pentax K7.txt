@@ -1,0 +1,28 @@
+{
+    "name": "Pentax K7",
+    "image": "//cdn.dxomark.com/dakdata/xml/K7/vignette3.png",
+    "brand": "Pentax",
+    "price": 1900,
+    "pixelDepth": 14.6,
+    "pixels": 14852096,
+    "ISO": [
+        100,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1242748800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5.2,
+    "resolution": [
+        4736,
+        3136
+    ],
+    "weight": null,
+    "autoFocus": null
+}
