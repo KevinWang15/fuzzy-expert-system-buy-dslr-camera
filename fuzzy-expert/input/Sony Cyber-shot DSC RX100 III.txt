@@ -1,0 +1,28 @@
+{
+    "name": "Sony Cyber-shot DSC RX100 III",
+    "image": "//cdn.dxomark.com/dakdata/xml/Cyber-shot_DSC_RX100_III/vignette3.png",
+    "brand": "Sony",
+    "price": 800,
+    "pixelDepth": 20.1,
+    "pixels": 20181312,
+    "ISO": [
+        125,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1400169600000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 10,
+    "resolution": [
+        5496,
+        3672
+    ],
+    "weight": 263,
+    "autoFocus": 25
+}

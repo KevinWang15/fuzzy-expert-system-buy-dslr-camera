@@ -1,0 +1,28 @@
+{
+    "name": "Samsung NX1",
+    "image": "//cdn.dxomark.com/dakdata/xml/NX1/vignette3.png",
+    "brand": "Samsung",
+    "price": 1500,
+    "pixelDepth": 28.2,
+    "pixels": 28166656,
+    "ISO": [
+        100,
+        51200
+    ],
+    "maxISO": 51200,
+    "launchDate": 1410710400000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": true,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 15,
+    "resolution": [
+        6496,
+        4336
+    ],
+    "weight": 550,
+    "autoFocus": 205
+}

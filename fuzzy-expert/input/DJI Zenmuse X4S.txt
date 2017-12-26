@@ -1,0 +1,28 @@
+{
+    "name": "DJI Zenmuse X4S",
+    "image": "//cdn.dxomark.com/dakdata/xml/Zenmuse_X4S/vignette3.png",
+    "brand": "DJI",
+    "price": 599,
+    "pixelDepth": 20,
+    "pixels": 19961856,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1479139200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 20,
+    "resolution": [
+        5472,
+        3648
+    ],
+    "weight": 253,
+    "autoFocus": 0
+}

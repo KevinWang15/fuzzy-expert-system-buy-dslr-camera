@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D600",
+    "image": "//cdn.dxomark.com/dakdata/xml/D600/vignette3.png",
+    "brand": "Nikon",
+    "price": 2100,
+    "pixelDepth": 24.3,
+    "pixels": 24490240,
+    "ISO": [
+        50,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1347465600000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5.5,
+    "resolution": [
+        6080,
+        4028
+    ],
+    "weight": null,
+    "autoFocus": 39
+}

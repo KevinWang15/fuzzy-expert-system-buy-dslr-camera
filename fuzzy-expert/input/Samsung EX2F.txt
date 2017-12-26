@@ -1,0 +1,28 @@
+{
+    "name": "Samsung EX2F",
+    "image": "//cdn.dxomark.com/dakdata/xml/EX2F/vignette3.png",
+    "brand": "Samsung",
+    "price": 549,
+    "pixelDepth": 12.4,
+    "pixels": 12393150,
+    "ISO": [
+        80,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1341244800000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 10,
+    "resolution": [
+        4070,
+        3045
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

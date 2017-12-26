@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 5D Mark III",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_5D_Mark_III/vignette3.png",
+    "brand": "Canon",
+    "price": 3499,
+    "pixelDepth": 22.3,
+    "pixels": 23384000,
+    "ISO": [
+        50,
+        102400
+    ],
+    "maxISO": 102400,
+    "launchDate": 1330617600000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 6,
+    "resolution": [
+        5920,
+        3950
+    ],
+    "weight": 910,
+    "autoFocus": 61
+}

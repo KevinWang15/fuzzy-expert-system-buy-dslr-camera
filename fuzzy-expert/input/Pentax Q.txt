@@ -1,0 +1,28 @@
+{
+    "name": "Pentax Q",
+    "image": "//cdn.dxomark.com/dakdata/xml/Q/vignette3.png",
+    "brand": "Pentax",
+    "price": 799,
+    "pixelDepth": 12.4,
+    "pixels": 12000000,
+    "ISO": [
+        125,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1308672000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        4000,
+        3000
+    ],
+    "weight": null,
+    "autoFocus": 25
+}

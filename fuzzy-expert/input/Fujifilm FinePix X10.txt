@@ -1,0 +1,28 @@
+{
+    "name": "Fujifilm FinePix X10",
+    "image": "//cdn.dxomark.com/dakdata/xml/FinePix_X10/vignette3.png",
+    "brand": "Fujifilm",
+    "price": 600,
+    "pixelDepth": 12,
+    "pixels": 12212896,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1314806400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 7,
+    "resolution": [
+        4028,
+        3032
+    ],
+    "weight": 330,
+    "autoFocus": 49
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Sony Alpha 850",
+    "image": "//cdn.dxomark.com/dakdata/xml/Alpha_850/vignette3.png",
+    "brand": "Sony",
+    "price": 2000,
+    "pixelDepth": 24.6,
+    "pixels": 24611840,
+    "ISO": [
+        100,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1251302400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        6080,
+        4048
+    ],
+    "weight": null,
+    "autoFocus": null
+}

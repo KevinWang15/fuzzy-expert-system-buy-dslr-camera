@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 1Ds",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_1Ds/vignette3.png",
+    "brand": "Canon",
+    "price": 2700,
+    "pixelDepth": 11,
+    "pixels": 11094876,
+    "ISO": [
+        100,
+        1233
+    ],
+    "maxISO": 1233,
+    "launchDate": 1032796800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        4082,
+        2718
+    ],
+    "weight": 1265,
+    "autoFocus": 0
+}

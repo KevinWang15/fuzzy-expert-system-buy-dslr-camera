@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D3200",
+    "image": "//cdn.dxomark.com/dakdata/xml/D3200/vignette3.png",
+    "brand": "Nikon",
+    "price": 699,
+    "pixelDepth": 24.2,
+    "pixels": 24392960,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1334764800000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 4,
+    "resolution": [
+        6080,
+        4012
+    ],
+    "weight": 455,
+    "autoFocus": 11
+}

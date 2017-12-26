@@ -1,0 +1,28 @@
+{
+    "name": "Sony SLT Alpha 68",
+    "image": "//cdn.dxomark.com/dakdata/xml/SLT_Alpha_68/vignette3.png",
+    "brand": "Sony",
+    "price": 600,
+    "pixelDepth": 24,
+    "pixels": 24192384,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1446652800000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 8,
+    "resolution": [
+        6024,
+        4016
+    ],
+    "weight": null,
+    "autoFocus": 79
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Sony Alpha 300",
+    "image": "//cdn.dxomark.com/dakdata/xml/Alpha_300/vignette3.png",
+    "brand": "Sony",
+    "price": 690,
+    "pixelDepth": 10.2,
+    "pixels": 10119040,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1201622400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3880,
+        2608
+    ],
+    "weight": null,
+    "autoFocus": null
+}

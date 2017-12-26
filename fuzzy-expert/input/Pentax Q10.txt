@@ -1,0 +1,28 @@
+{
+    "name": "Pentax Q10",
+    "image": "//cdn.dxomark.com/dakdata/xml/Q10/vignette3.png",
+    "brand": "Pentax",
+    "price": 499,
+    "pixelDepth": 12.4,
+    "pixels": 12000000,
+    "ISO": [
+        100,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1347292800000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        4000,
+        3000
+    ],
+    "weight": 200,
+    "autoFocus": 25
+}

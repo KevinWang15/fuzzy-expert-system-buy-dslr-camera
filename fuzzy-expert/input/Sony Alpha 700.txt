@@ -1,0 +1,28 @@
+{
+    "name": "Sony Alpha 700",
+    "image": "//cdn.dxomark.com/dakdata/xml/Alpha_700/vignette3.png",
+    "brand": "Sony",
+    "price": 1300,
+    "pixelDepth": 12.2,
+    "pixels": 12246528,
+    "ISO": [
+        100,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1189008000000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        4288,
+        2856
+    ],
+    "weight": null,
+    "autoFocus": null
+}

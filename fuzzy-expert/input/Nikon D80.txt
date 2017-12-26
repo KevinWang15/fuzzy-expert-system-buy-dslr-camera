@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D80",
+    "image": "//cdn.dxomark.com/dakdata/xml/D80/vignette3.png",
+    "brand": "Nikon",
+    "price": 730,
+    "pixelDepth": 10,
+    "pixels": 10190700,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1155052800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3900,
+        2613
+    ],
+    "weight": null,
+    "autoFocus": null
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Sony NEX-C3",
+    "image": "//cdn.dxomark.com/dakdata/xml/NEX-C3/vignette3.png",
+    "brand": "Sony",
+    "price": 770,
+    "pixelDepth": 16.2,
+    "pixels": 16163840,
+    "ISO": [
+        200,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1307462400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 2.5,
+    "resolution": [
+        4928,
+        3280
+    ],
+    "weight": 225,
+    "autoFocus": 25
+}

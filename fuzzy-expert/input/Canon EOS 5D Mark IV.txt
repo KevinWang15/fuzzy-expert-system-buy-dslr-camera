@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 5D Mark IV",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_5D_Mark_IV/vignette3.png",
+    "brand": "Canon",
+    "price": 3500,
+    "pixelDepth": 30.4,
+    "pixels": 31262720,
+    "ISO": [
+        50,
+        102400
+    ],
+    "maxISO": 102400,
+    "launchDate": 1472054400000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 7,
+    "resolution": [
+        6880,
+        4544
+    ],
+    "weight": 800,
+    "autoFocus": 61
+}

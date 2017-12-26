@@ -1,0 +1,28 @@
+{
+    "name": "Samsung Galaxy S6 Edge",
+    "image": "//cdn.dxomark.com/dakdata/xml/Galaxy_S6_Edge/vignette3.png",
+    "brand": "Samsung",
+    "price": 600,
+    "pixelDepth": 16,
+    "pixels": 15984000,
+    "ISO": [
+        50,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1425139200000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": true,
+    "gps": true,
+    "isMetal": null,
+    "frameRate": null,
+    "resolution": [
+        5328,
+        3000
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DMC-FZ330",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DMC-FZ330/vignette3.png",
+    "brand": "Panasonic",
+    "price": 600,
+    "pixelDepth": 12.1,
+    "pixels": 12112256,
+    "ISO": [
+        100,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1436976000000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 12,
+    "resolution": [
+        4016,
+        3016
+    ],
+    "weight": 691,
+    "autoFocus": 49
+}

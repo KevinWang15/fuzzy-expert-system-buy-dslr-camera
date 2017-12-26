@@ -1,0 +1,28 @@
+{
+    "name": "Leaf Aptus75S",
+    "image": "//cdn.dxomark.com/dakdata/xml/Aptus75S/vignette3.png",
+    "brand": "Leaf",
+    "price": 32995,
+    "pixelDepth": 33,
+    "pixels": 33276672,
+    "ISO": [
+        50,
+        800
+    ],
+    "maxISO": 800,
+    "launchDate": 1159200000000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 0.83,
+    "resolution": [
+        6666,
+        4992
+    ],
+    "weight": null,
+    "autoFocus": null
+}

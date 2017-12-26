@@ -1,0 +1,28 @@
+{
+    "name": "Leica M-E Typ 220",
+    "image": "//cdn.dxomark.com/dakdata/xml/M-E_Typ_220/vignette3.png",
+    "brand": "Leica",
+    "price": 5450,
+    "pixelDepth": 18,
+    "pixels": 18109952,
+    "ISO": [
+        80,
+        2500
+    ],
+    "maxISO": 2500,
+    "launchDate": 1347811200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 2,
+    "resolution": [
+        5216,
+        3472
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

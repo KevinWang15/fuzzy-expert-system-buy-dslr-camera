@@ -1,0 +1,28 @@
+{
+    "name": "Sony SLT Alpha 58",
+    "image": "//cdn.dxomark.com/dakdata/xml/SLT_Alpha_58/vignette3.png",
+    "brand": "Sony",
+    "price": 735,
+    "pixelDepth": 20.1,
+    "pixels": 20093376,
+    "ISO": [
+        100,
+        16000
+    ],
+    "maxISO": 16000,
+    "launchDate": 1361289600000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 8,
+    "resolution": [
+        5496,
+        3656
+    ],
+    "weight": 492,
+    "autoFocus": 15
+}

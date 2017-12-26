@@ -1,0 +1,28 @@
+{
+    "name": "DJI Zenmuse X7",
+    "image": "//cdn.dxomark.com/dakdata/xml/Zenmuse_X7/vignette3.png",
+    "brand": "DJI",
+    "price": 2700,
+    "pixelDepth": 24,
+    "pixels": 24112128,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1507651200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 20,
+    "resolution": [
+        6016,
+        4008
+    ],
+    "weight": 449,
+    "autoFocus": 0
+}

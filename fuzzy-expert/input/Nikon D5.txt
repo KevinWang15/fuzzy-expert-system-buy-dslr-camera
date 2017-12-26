@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D5",
+    "image": "//cdn.dxomark.com/dakdata/xml/D5/vignette3.png",
+    "brand": "Nikon",
+    "price": 6500,
+    "pixelDepth": 20.8,
+    "pixels": 20817152,
+    "ISO": [
+        50,
+        3280000
+    ],
+    "maxISO": 3280000,
+    "launchDate": 1452009600000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 14,
+    "resolution": [
+        5584,
+        3728
+    ],
+    "weight": 1225,
+    "autoFocus": 153
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 100D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_100D/vignette3.png",
+    "brand": "Canon",
+    "price": 650,
+    "pixelDepth": 18,
+    "pixels": 18103008,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1363795200000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 4,
+    "resolution": [
+        5208,
+        3476
+    ],
+    "weight": 370,
+    "autoFocus": 9
+}

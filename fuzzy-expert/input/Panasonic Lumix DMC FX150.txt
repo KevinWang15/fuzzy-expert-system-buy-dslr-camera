@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DMC FX150",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DMC_FX150/vignette3.png",
+    "brand": "Panasonic",
+    "price": 390,
+    "pixelDepth": 14.7,
+    "pixels": 14721996,
+    "ISO": [
+        100,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1216569600000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 2.5,
+    "resolution": [
+        4429,
+        3324
+    ],
+    "weight": null,
+    "autoFocus": null
+}

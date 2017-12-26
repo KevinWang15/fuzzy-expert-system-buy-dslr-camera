@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 1000D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_1000D/vignette3.png",
+    "brand": "Canon",
+    "price": 540,
+    "pixelDepth": 10.1,
+    "pixels": 10163412,
+    "ISO": [
+        100,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1213027200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3906,
+        2602
+    ],
+    "weight": null,
+    "autoFocus": null
+}

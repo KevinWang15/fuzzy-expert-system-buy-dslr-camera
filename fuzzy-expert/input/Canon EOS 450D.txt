@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 450D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_450D/vignette3.png",
+    "brand": "Canon",
+    "price": 570,
+    "pixelDepth": 12.2,
+    "pixels": 12401312,
+    "ISO": [
+        100,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1201104000000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3.5,
+    "resolution": [
+        4312,
+        2876
+    ],
+    "weight": null,
+    "autoFocus": null
+}

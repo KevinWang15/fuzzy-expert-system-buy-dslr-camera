@@ -1,0 +1,28 @@
+{
+    "name": "Sony Alpha 580",
+    "image": "//cdn.dxomark.com/dakdata/xml/Alpha_580/vignette3.png",
+    "brand": "Sony",
+    "price": 800,
+    "pixelDepth": 16.2,
+    "pixels": 16032768,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1282579200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        4912,
+        3264
+    ],
+    "weight": null,
+    "autoFocus": 15
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Pentax K-3 II",
+    "image": "//cdn.dxomark.com/dakdata/xml/K-3_II/vignette3.png",
+    "brand": "Pentax",
+    "price": 1100,
+    "pixelDepth": 24.35,
+    "pixels": 24514560,
+    "ISO": [
+        100,
+        51200
+    ],
+    "maxISO": 51200,
+    "launchDate": 1429718400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 8.3,
+    "resolution": [
+        6080,
+        4032
+    ],
+    "weight": null,
+    "autoFocus": 27
+}

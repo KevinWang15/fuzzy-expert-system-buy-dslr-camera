@@ -1,0 +1,28 @@
+{
+    "name": "Pentax K 01",
+    "image": "//cdn.dxomark.com/dakdata/xml/K_01/vignette3.png",
+    "brand": "Pentax",
+    "price": 899,
+    "pixelDepth": 16.28,
+    "pixels": 16150592,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1328112000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        4936,
+        3272
+    ],
+    "weight": 561,
+    "autoFocus": null
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DMC GF6",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DMC_GF6/vignette3.png",
+    "brand": "Panasonic",
+    "price": 680,
+    "pixelDepth": 16,
+    "pixels": 15962112,
+    "ISO": [
+        160,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1365436800000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 20,
+    "resolution": [
+        4608,
+        3464
+    ],
+    "weight": null,
+    "autoFocus": 23
+}

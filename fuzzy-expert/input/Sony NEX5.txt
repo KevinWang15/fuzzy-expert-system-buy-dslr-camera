@@ -1,0 +1,28 @@
+{
+    "name": "Sony NEX5",
+    "image": "//cdn.dxomark.com/dakdata/xml/NEX5/vignette3.png",
+    "brand": "Sony",
+    "price": 650,
+    "pixelDepth": 14.16,
+    "pixels": 14155776,
+    "ISO": [
+        200,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1272643200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 7,
+    "resolution": [
+        4608,
+        3072
+    ],
+    "weight": null,
+    "autoFocus": null
+}

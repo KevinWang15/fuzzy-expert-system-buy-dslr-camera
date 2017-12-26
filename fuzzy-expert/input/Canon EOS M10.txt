@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS M10",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_M10/vignette3.png",
+    "brand": "Canon",
+    "price": 600,
+    "pixelDepth": 18,
+    "pixels": 18103008,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1444665600000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 4.6,
+    "resolution": [
+        5208,
+        3476
+    ],
+    "weight": null,
+    "autoFocus": 49
+}

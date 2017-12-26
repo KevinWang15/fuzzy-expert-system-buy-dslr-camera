@@ -1,0 +1,28 @@
+{
+    "name": "Canon PowerShot SX60 HS",
+    "image": "//cdn.dxomark.com/dakdata/xml/PowerShot_SX60_HS/vignette3.png",
+    "brand": "Canon",
+    "price": 550,
+    "pixelDepth": 16.1,
+    "pixels": 16764288,
+    "ISO": [
+        100,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1410710400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 6.4,
+    "resolution": [
+        4768,
+        3516
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

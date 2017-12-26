@@ -1,0 +1,28 @@
+{
+    "name": "Leica Q Typ 116",
+    "image": "//cdn.dxomark.com/dakdata/xml/Q_Typ_116/vignette3.png",
+    "brand": "Leica",
+    "price": 4250,
+    "pixelDepth": 24.2,
+    "pixels": 24160256,
+    "ISO": [
+        100,
+        50000
+    ],
+    "maxISO": 50000,
+    "launchDate": 1433865600000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 10,
+    "resolution": [
+        6016,
+        4016
+    ],
+    "weight": 590,
+    "autoFocus": 49
+}

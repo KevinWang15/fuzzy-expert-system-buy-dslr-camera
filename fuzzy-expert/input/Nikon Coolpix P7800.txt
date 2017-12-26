@@ -1,0 +1,28 @@
+{
+    "name": "Nikon Coolpix P7800",
+    "image": "//cdn.dxomark.com/dakdata/xml/Coolpix_P7800/vignette3.png",
+    "brand": "Nikon",
+    "price": 550,
+    "pixelDepth": 12.2,
+    "pixels": 12192768,
+    "ISO": [
+        80,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1378310400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 8,
+    "resolution": [
+        4032,
+        3024
+    ],
+    "weight": 300,
+    "autoFocus": 99
+}

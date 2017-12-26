@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D3",
+    "image": "//cdn.dxomark.com/dakdata/xml/D3/vignette3.png",
+    "brand": "Nikon",
+    "price": 4300,
+    "pixelDepth": 12.1,
+    "pixels": 12195072,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1187798400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 9,
+    "resolution": [
+        4288,
+        2844
+    ],
+    "weight": null,
+    "autoFocus": null
+}

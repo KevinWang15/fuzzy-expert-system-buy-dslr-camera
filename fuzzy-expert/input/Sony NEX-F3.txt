@@ -1,0 +1,28 @@
+{
+    "name": "Sony NEX-F3",
+    "image": "//cdn.dxomark.com/dakdata/xml/NEX-F3/vignette3.png",
+    "brand": "Sony",
+    "price": 600,
+    "pixelDepth": 16.1,
+    "pixels": 16144128,
+    "ISO": [
+        100,
+        16000
+    ],
+    "maxISO": 16000,
+    "launchDate": 1337184000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 6,
+    "resolution": [
+        4928,
+        3276
+    ],
+    "weight": 255,
+    "autoFocus": 25
+}

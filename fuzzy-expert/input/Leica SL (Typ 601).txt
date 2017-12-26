@@ -1,0 +1,28 @@
+{
+    "name": "Leica SL (Typ 601)",
+    "image": "//cdn.dxomark.com/dakdata/xml/SL_(Typ_601)/vignette3.png",
+    "brand": "Leica",
+    "price": 7450,
+    "pixelDepth": 24,
+    "pixels": 24160256,
+    "ISO": [
+        50,
+        50000
+    ],
+    "maxISO": 50000,
+    "launchDate": 1445270400000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 11,
+    "resolution": [
+        6016,
+        4016
+    ],
+    "weight": null,
+    "autoFocus": 49
+}

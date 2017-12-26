@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D2Xs",
+    "image": "//cdn.dxomark.com/dakdata/xml/D2Xs/vignette3.png",
+    "brand": "Nikon",
+    "price": 4250,
+    "pixelDepth": 12.2,
+    "pixels": 12212224,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1149091200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        4288,
+        2848
+    ],
+    "weight": null,
+    "autoFocus": null
+}

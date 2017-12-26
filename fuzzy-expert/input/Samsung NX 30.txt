@@ -1,0 +1,28 @@
+{
+    "name": "Samsung NX 30",
+    "image": "//cdn.dxomark.com/dakdata/xml/NX_30/vignette3.png",
+    "brand": "Samsung",
+    "price": 1000,
+    "pixelDepth": 20,
+    "pixels": 20597844,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1388592000000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 9,
+    "resolution": [
+        5546,
+        3714
+    ],
+    "weight": null,
+    "autoFocus": 247
+}

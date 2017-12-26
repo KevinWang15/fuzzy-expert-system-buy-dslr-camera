@@ -1,0 +1,28 @@
+{
+    "name": "Phase One P40 Plus",
+    "image": "//cdn.dxomark.com/dakdata/xml/P40_Plus/vignette3.png",
+    "brand": "Phase One",
+    "price": 19500,
+    "pixelDepth": 40,
+    "pixels": 40811392,
+    "ISO": [
+        50,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1240934400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 1.2,
+    "resolution": [
+        7372,
+        5536
+    ],
+    "weight": null,
+    "autoFocus": null
+}

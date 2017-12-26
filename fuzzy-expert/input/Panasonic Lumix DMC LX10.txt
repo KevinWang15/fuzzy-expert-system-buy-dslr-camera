@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DMC LX10",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DMC_LX10/vignette3.png",
+    "brand": "Panasonic",
+    "price": 699,
+    "pixelDepth": 20.1,
+    "pixels": 20108032,
+    "ISO": [
+        80,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1474214400000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 10,
+    "resolution": [
+        5488,
+        3664
+    ],
+    "weight": null,
+    "autoFocus": 49
+}

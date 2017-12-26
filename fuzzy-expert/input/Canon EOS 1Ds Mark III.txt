@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 1Ds Mark III",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_1Ds_Mark_III/vignette3.png",
+    "brand": "Canon",
+    "price": 7100,
+    "pixelDepth": 21.1,
+    "pixels": 21557088,
+    "ISO": [
+        50,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1187539200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        5712,
+        3774
+    ],
+    "weight": null,
+    "autoFocus": null
+}

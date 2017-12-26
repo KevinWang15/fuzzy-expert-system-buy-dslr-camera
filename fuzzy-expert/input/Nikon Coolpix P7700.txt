@@ -1,0 +1,28 @@
+{
+    "name": "Nikon Coolpix P7700",
+    "image": "//cdn.dxomark.com/dakdata/xml/Coolpix_P7700/vignette3.png",
+    "brand": "Nikon",
+    "price": 499,
+    "pixelDepth": 12.2,
+    "pixels": 12192768,
+    "ISO": [
+        80,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1345564800000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 8,
+    "resolution": [
+        4032,
+        3024
+    ],
+    "weight": null,
+    "autoFocus": 99
+}

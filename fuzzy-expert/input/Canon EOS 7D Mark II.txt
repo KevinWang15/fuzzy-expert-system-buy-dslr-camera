@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 7D Mark II",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_7D_Mark_II/vignette3.png",
+    "brand": "Canon",
+    "price": 1800,
+    "pixelDepth": 20.2,
+    "pixels": 20170320,
+    "ISO": [
+        100,
+        51200
+    ],
+    "maxISO": 51200,
+    "launchDate": 1410710400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 10,
+    "resolution": [
+        5496,
+        3670
+    ],
+    "weight": null,
+    "autoFocus": 65
+}

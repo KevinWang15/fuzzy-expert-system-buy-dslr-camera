@@ -1,0 +1,28 @@
+{
+    "name": "DJI Phantom 4",
+    "image": "//cdn.dxomark.com/dakdata/xml/Phantom_4/vignette3.png",
+    "brand": "DJI",
+    "price": 1200,
+    "pixelDepth": 12.4,
+    "pixels": 12000000,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1457971200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 7,
+    "resolution": [
+        4000,
+        3000
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

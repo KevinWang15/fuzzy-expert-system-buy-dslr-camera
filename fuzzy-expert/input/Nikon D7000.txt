@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D7000",
+    "image": "//cdn.dxomark.com/dakdata/xml/D7000/vignette3.png",
+    "brand": "Nikon",
+    "price": 1200,
+    "pixelDepth": 16.2,
+    "pixels": 16370480,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1284480000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 6,
+    "resolution": [
+        4991,
+        3280
+    ],
+    "weight": 690,
+    "autoFocus": 39
+}

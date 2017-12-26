@@ -1,0 +1,28 @@
+{
+    "name": "Fujifilm FinePix S5 Pro",
+    "image": "//cdn.dxomark.com/dakdata/xml/FinePix_S5_Pro/vignette3.png",
+    "brand": "Fujifilm",
+    "price": 1200,
+    "pixelDepth": 6.1,
+    "pixels": 6096384,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1159113600000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3024,
+        2016
+    ],
+    "weight": null,
+    "autoFocus": null
+}

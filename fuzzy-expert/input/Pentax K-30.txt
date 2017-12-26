@@ -1,0 +1,28 @@
+{
+    "name": "Pentax K-30",
+    "image": "//cdn.dxomark.com/dakdata/xml/K-30/vignette3.png",
+    "brand": "Pentax",
+    "price": 470,
+    "pixelDepth": 16.3,
+    "pixels": 16150592,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1337616000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 6,
+    "resolution": [
+        4936,
+        3272
+    ],
+    "weight": null,
+    "autoFocus": 11
+}

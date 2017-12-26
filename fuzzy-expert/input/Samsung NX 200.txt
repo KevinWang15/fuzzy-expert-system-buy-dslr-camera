@@ -1,0 +1,28 @@
+{
+    "name": "Samsung NX 200",
+    "image": "//cdn.dxomark.com/dakdata/xml/NX_200/vignette3.png",
+    "brand": "Samsung",
+    "price": 899,
+    "pixelDepth": 20.3,
+    "pixels": 20243536,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1314806400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 7,
+    "resolution": [
+        5528,
+        3662
+    ],
+    "weight": null,
+    "autoFocus": 35
+}

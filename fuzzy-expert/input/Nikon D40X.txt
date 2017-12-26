@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D40X",
+    "image": "//cdn.dxomark.com/dakdata/xml/D40X/vignette3.png",
+    "brand": "Nikon",
+    "price": 998,
+    "pixelDepth": 10,
+    "pixels": 10212864,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1173110400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3904,
+        2616
+    ],
+    "weight": null,
+    "autoFocus": null
+}

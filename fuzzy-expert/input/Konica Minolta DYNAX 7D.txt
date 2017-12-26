@@ -1,0 +1,28 @@
+{
+    "name": "Konica Minolta DYNAX 7D",
+    "image": "//cdn.dxomark.com/dakdata/xml/DYNAX_7D/vignette3.png",
+    "brand": "Konica Minolta",
+    "price": 569,
+    "pixelDepth": 6,
+    "pixels": 6056128,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1095177600000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3016,
+        2008
+    ],
+    "weight": null,
+    "autoFocus": null
+}

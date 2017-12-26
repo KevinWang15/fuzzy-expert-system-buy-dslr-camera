@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 40D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_40D/vignette3.png",
+    "brand": "Canon",
+    "price": 899,
+    "pixelDepth": 10.1,
+    "pixels": 10341168,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1187539200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 6.5,
+    "resolution": [
+        3944,
+        2622
+    ],
+    "weight": null,
+    "autoFocus": null
+}

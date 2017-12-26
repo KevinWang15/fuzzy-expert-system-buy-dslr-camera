@@ -1,0 +1,28 @@
+{
+    "name": "Sony A7S",
+    "image": "//cdn.dxomark.com/dakdata/xml/A7S/vignette3.png",
+    "brand": "Sony",
+    "price": 2499,
+    "pixelDepth": 12.2,
+    "pixels": 12212224,
+    "ISO": [
+        50,
+        409600
+    ],
+    "maxISO": 409600,
+    "launchDate": 1396713600000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 5,
+    "resolution": [
+        4288,
+        2848
+    ],
+    "weight": null,
+    "autoFocus": 25
+}

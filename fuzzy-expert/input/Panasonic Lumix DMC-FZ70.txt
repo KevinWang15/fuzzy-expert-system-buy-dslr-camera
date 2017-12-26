@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DMC-FZ70",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DMC-FZ70/vignette3.png",
+    "brand": "Panasonic",
+    "price": 399,
+    "pixelDepth": 16.1,
+    "pixels": 16054528,
+    "ISO": [
+        100,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1374076800000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 9,
+    "resolution": [
+        4624,
+        3472
+    ],
+    "weight": 562,
+    "autoFocus": 23
+}

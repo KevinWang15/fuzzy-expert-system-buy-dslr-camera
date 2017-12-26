@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DMC G1",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DMC_G1/vignette3.png",
+    "brand": "Panasonic",
+    "price": 790,
+    "pixelDepth": 12.1,
+    "pixels": 12118288,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1221148800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        4018,
+        3016
+    ],
+    "weight": null,
+    "autoFocus": null
+}

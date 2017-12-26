@@ -1,0 +1,28 @@
+{
+    "name": "Sony NEX-3N",
+    "image": "//cdn.dxomark.com/dakdata/xml/NEX-3N/vignette3.png",
+    "brand": "Sony",
+    "price": 670,
+    "pixelDepth": 16,
+    "pixels": 16144128,
+    "ISO": [
+        200,
+        16000
+    ],
+    "maxISO": 16000,
+    "launchDate": 1361289600000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 4,
+    "resolution": [
+        4928,
+        3276
+    ],
+    "weight": 210,
+    "autoFocus": 25
+}

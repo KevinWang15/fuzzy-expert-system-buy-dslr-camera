@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D2H",
+    "image": "//cdn.dxomark.com/dakdata/xml/D2H/vignette3.png",
+    "brand": "Nikon",
+    "price": 900,
+    "pixelDepth": 4,
+    "pixels": 4113408,
+    "ISO": [
+        200,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1058803200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 8,
+    "resolution": [
+        2496,
+        1648
+    ],
+    "weight": null,
+    "autoFocus": null
+}

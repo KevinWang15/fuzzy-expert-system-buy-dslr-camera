@@ -1,0 +1,28 @@
+{
+    "name": "Samsung GALAXY NX",
+    "image": "//cdn.dxomark.com/dakdata/xml/GALAXY_NX/vignette3.png",
+    "brand": "Samsung",
+    "price": 1300,
+    "pixelDepth": 20.3,
+    "pixels": 20597844,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1371657600000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": true,
+    "gps": true,
+    "isMetal": null,
+    "frameRate": 8.6,
+    "resolution": [
+        5546,
+        3714
+    ],
+    "weight": 410,
+    "autoFocus": 0
+}

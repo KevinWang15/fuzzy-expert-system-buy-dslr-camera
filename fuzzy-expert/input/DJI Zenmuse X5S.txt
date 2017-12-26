@@ -1,0 +1,28 @@
+{
+    "name": "DJI Zenmuse X5S",
+    "image": "//cdn.dxomark.com/dakdata/xml/Zenmuse_X5S/vignette3.png",
+    "brand": "DJI",
+    "price": 1400,
+    "pixelDepth": 20.8,
+    "pixels": 20887680,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1479139200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 20,
+    "resolution": [
+        5280,
+        3956
+    ],
+    "weight": 461,
+    "autoFocus": 0
+}

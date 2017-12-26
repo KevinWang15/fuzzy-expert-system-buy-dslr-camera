@@ -1,0 +1,28 @@
+{
+    "name": "Sony SLT Alpha 99",
+    "image": "//cdn.dxomark.com/dakdata/xml/SLT_Alpha_99/vignette3.png",
+    "brand": "Sony",
+    "price": 2800,
+    "pixelDepth": 24.3,
+    "pixels": 24240576,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1347379200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 10,
+    "resolution": [
+        6024,
+        4024
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

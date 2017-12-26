@@ -1,0 +1,28 @@
+{
+    "name": "Leica C",
+    "image": "//cdn.dxomark.com/dakdata/xml/C/vignette3.png",
+    "brand": "Leica",
+    "price": 795,
+    "pixelDepth": 12.1,
+    "pixels": 12112256,
+    "ISO": [
+        80,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1378742400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 10,
+    "resolution": [
+        4016,
+        3016
+    ],
+    "weight": null,
+    "autoFocus": 0
+}

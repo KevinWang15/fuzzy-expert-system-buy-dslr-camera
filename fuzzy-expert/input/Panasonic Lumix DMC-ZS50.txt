@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DMC-ZS50",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DMC-ZS50/vignette3.png",
+    "brand": "Panasonic",
+    "price": 400,
+    "pixelDepth": 12,
+    "pixels": 12112256,
+    "ISO": [
+        80,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1420387200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 10,
+    "resolution": [
+        4016,
+        3016
+    ],
+    "weight": 217,
+    "autoFocus": 23
+}

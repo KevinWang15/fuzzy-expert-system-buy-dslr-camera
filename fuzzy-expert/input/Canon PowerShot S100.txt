@@ -1,0 +1,28 @@
+{
+    "name": "Canon PowerShot S100",
+    "image": "//cdn.dxomark.com/dakdata/xml/PowerShot_S100/vignette3.png",
+    "brand": "Canon",
+    "price": 429,
+    "pixelDepth": 12.1,
+    "pixels": 12995840,
+    "ISO": [
+        80,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1316016000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": null,
+    "frameRate": null,
+    "resolution": [
+        4160,
+        3124
+    ],
+    "weight": null,
+    "autoFocus": null
+}

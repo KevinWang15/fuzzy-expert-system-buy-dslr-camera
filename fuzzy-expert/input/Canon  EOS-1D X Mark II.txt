@@ -1,0 +1,28 @@
+{
+    "name": "Canon  EOS-1D X Mark II",
+    "image": "//cdn.dxomark.com/dakdata/xml/_EOS-1D_X_Mark_II/vignette3.png",
+    "brand": "Canon",
+    "price": 6000,
+    "pixelDepth": 20.2,
+    "pixels": 20170320,
+    "ISO": [
+        100,
+        409600
+    ],
+    "maxISO": 409600,
+    "launchDate": 1454342400000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 16,
+    "resolution": [
+        5496,
+        3670
+    ],
+    "weight": 1340,
+    "autoFocus": 61
+}

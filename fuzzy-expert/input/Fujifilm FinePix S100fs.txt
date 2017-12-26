@@ -1,0 +1,28 @@
+{
+    "name": "Fujifilm FinePix S100fs",
+    "image": "//cdn.dxomark.com/dakdata/xml/FinePix_S100fs/vignette3.png",
+    "brand": "Fujifilm",
+    "price": 713,
+    "pixelDepth": 11.1,
+    "pixels": 11059200,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1201104000000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3840,
+        2880
+    ],
+    "weight": null,
+    "autoFocus": null
+}

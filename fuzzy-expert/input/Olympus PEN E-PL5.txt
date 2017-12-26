@@ -1,0 +1,28 @@
+{
+    "name": "Olympus PEN E-PL5",
+    "image": "//cdn.dxomark.com/dakdata/xml/PEN_E-PL5/vignette3.png",
+    "brand": "Olympus",
+    "price": 699,
+    "pixelDepth": 16.1,
+    "pixels": 16110080,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1347811200000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 8,
+    "resolution": [
+        4640,
+        3472
+    ],
+    "weight": 279,
+    "autoFocus": 35
+}

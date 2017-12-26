@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DMC GF3",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DMC_GF3/vignette3.png",
+    "brand": "Panasonic",
+    "price": 699,
+    "pixelDepth": 12.1,
+    "pixels": 12112256,
+    "ISO": [
+        160,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1307894400000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3.8,
+    "resolution": [
+        4016,
+        3016
+    ],
+    "weight": null,
+    "autoFocus": null
+}

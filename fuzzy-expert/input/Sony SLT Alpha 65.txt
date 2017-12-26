@@ -1,0 +1,28 @@
+{
+    "name": "Sony SLT Alpha 65",
+    "image": "//cdn.dxomark.com/dakdata/xml/SLT_Alpha_65/vignette3.png",
+    "brand": "Sony",
+    "price": 1290,
+    "pixelDepth": 24.3,
+    "pixels": 24240576,
+    "ISO": [
+        100,
+        16000
+    ],
+    "maxISO": 16000,
+    "launchDate": 1314115200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": true,
+    "frameRate": 12,
+    "resolution": [
+        6024,
+        4024
+    ],
+    "weight": 622,
+    "autoFocus": 19
+}

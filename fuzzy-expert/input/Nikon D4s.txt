@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D4s",
+    "image": "//cdn.dxomark.com/dakdata/xml/D4s/vignette3.png",
+    "brand": "Nikon",
+    "price": 6500,
+    "pixelDepth": 16.2,
+    "pixels": 16229568,
+    "ISO": [
+        50,
+        409600
+    ],
+    "maxISO": 409600,
+    "launchDate": 1393257600000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 11,
+    "resolution": [
+        4936,
+        3288
+    ],
+    "weight": null,
+    "autoFocus": 51
+}

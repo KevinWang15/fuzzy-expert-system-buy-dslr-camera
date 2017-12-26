@@ -1,0 +1,28 @@
+{
+    "name": "Pentax MX-1",
+    "image": "//cdn.dxomark.com/dakdata/xml/MX-1/vignette3.png",
+    "brand": "Pentax",
+    "price": 499,
+    "pixelDepth": 12,
+    "pixels": 12088160,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1357488000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 6,
+    "resolution": [
+        4016,
+        3010
+    ],
+    "weight": null,
+    "autoFocus": 25
+}

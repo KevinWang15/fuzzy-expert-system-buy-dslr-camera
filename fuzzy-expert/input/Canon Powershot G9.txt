@@ -1,0 +1,28 @@
+{
+    "name": "Canon Powershot G9",
+    "image": "//cdn.dxomark.com/dakdata/xml/Powershot_G9/vignette3.png",
+    "brand": "Canon",
+    "price": 606,
+    "pixelDepth": 12.1,
+    "pixels": 12192768,
+    "ISO": [
+        80,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1187539200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 1.5,
+    "resolution": [
+        4032,
+        3024
+    ],
+    "weight": null,
+    "autoFocus": null
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 650D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_650D/vignette3.png",
+    "brand": "Canon",
+    "price": 899,
+    "pixelDepth": 18,
+    "pixels": 18627840,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1339084800000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        5280,
+        3528
+    ],
+    "weight": 575,
+    "autoFocus": 9
+}

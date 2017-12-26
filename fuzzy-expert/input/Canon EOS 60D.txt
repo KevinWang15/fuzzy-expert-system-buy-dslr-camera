@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 60D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_60D/vignette3.png",
+    "brand": "Canon",
+    "price": 1199,
+    "pixelDepth": 18,
+    "pixels": 17992016,
+    "ISO": [
+        100,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1282752000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5.3,
+    "resolution": [
+        5194,
+        3464
+    ],
+    "weight": null,
+    "autoFocus": 9
+}

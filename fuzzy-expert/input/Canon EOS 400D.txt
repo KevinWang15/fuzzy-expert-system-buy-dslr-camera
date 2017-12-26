@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 400D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_400D/vignette3.png",
+    "brand": "Canon",
+    "price": 520,
+    "pixelDepth": 10.1,
+    "pixels": 10351656,
+    "ISO": [
+        100,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1156348800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3948,
+        2622
+    ],
+    "weight": null,
+    "autoFocus": null
+}

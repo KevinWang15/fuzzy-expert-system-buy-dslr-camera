@@ -1,0 +1,28 @@
+{
+    "name": "Sony Alpha 450",
+    "image": "//cdn.dxomark.com/dakdata/xml/Alpha_450/vignette3.png",
+    "brand": "Sony",
+    "price": 680,
+    "pixelDepth": 14.2,
+    "pixels": 14033152,
+    "ISO": [
+        200,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1262620800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        4592,
+        3056
+    ],
+    "weight": null,
+    "autoFocus": 9
+}

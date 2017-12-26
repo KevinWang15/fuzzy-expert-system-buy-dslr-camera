@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS M",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_M/vignette3.png",
+    "brand": "Canon",
+    "price": 799,
+    "pixelDepth": 18,
+    "pixels": 18627840,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1342972800000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 4.3,
+    "resolution": [
+        5280,
+        3528
+    ],
+    "weight": null,
+    "autoFocus": 31
+}

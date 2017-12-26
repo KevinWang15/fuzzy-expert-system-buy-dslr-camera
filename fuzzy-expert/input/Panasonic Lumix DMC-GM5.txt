@@ -1,0 +1,28 @@
+{
+    "name": "Panasonic Lumix DMC-GM5",
+    "image": "//cdn.dxomark.com/dakdata/xml/Lumix_DMC-GM5/vignette3.png",
+    "brand": "Panasonic",
+    "price": 650,
+    "pixelDepth": 16,
+    "pixels": 15962112,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1410710400000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5.8,
+    "resolution": [
+        4608,
+        3464
+    ],
+    "weight": null,
+    "autoFocus": 23
+}

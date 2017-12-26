@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D3000",
+    "image": "//cdn.dxomark.com/dakdata/xml/D3000/vignette3.png",
+    "brand": "Nikon",
+    "price": 730,
+    "pixelDepth": 12.3,
+    "pixels": 12361080,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1239638400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 3,
+    "resolution": [
+        4310,
+        2868
+    ],
+    "weight": null,
+    "autoFocus": 11
+}

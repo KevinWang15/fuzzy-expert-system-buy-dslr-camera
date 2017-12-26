@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 20D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_20D/vignette3.png",
+    "brand": "Canon",
+    "price": 700,
+    "pixelDepth": 8.2,
+    "pixels": 8486560,
+    "ISO": [
+        100,
+        1600
+    ],
+    "maxISO": 1600,
+    "launchDate": 1092844800000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        3596,
+        2360
+    ],
+    "weight": null,
+    "autoFocus": null
+}

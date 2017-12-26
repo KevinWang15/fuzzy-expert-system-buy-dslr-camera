@@ -1,0 +1,28 @@
+{
+    "name": "Canon PowerShot G9 X Mark II",
+    "image": "//cdn.dxomark.com/dakdata/xml/PowerShot_G9_X_Mark_II/vignette3.png",
+    "brand": "Canon",
+    "price": 530,
+    "pixelDepth": 20.1,
+    "pixels": 20444448,
+    "ISO": [
+        125,
+        12800
+    ],
+    "maxISO": 12800,
+    "launchDate": 1483459200000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": true,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 8.2,
+    "resolution": [
+        5536,
+        3693
+    ],
+    "weight": 182,
+    "autoFocus": 31
+}

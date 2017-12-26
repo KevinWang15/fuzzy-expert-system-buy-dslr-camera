@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 6D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_6D/vignette3.png",
+    "brand": "Canon",
+    "price": 2099,
+    "pixelDepth": 20.2,
+    "pixels": 20646144,
+    "ISO": [
+        50,
+        102400
+    ],
+    "maxISO": 102400,
+    "launchDate": 1347811200000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": true,
+    "isMetal": null,
+    "frameRate": 4.5,
+    "resolution": [
+        5568,
+        3708
+    ],
+    "weight": null,
+    "autoFocus": 11
+}

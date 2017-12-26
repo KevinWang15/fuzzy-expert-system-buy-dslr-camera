@@ -1,0 +1,28 @@
+{
+    "name": "Nikon D3300",
+    "image": "//cdn.dxomark.com/dakdata/xml/D3300/vignette3.png",
+    "brand": "Nikon",
+    "price": 650,
+    "pixelDepth": 24.2,
+    "pixels": 24160256,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1389024000000,
+    "touchScreen": null,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 5,
+    "resolution": [
+        6016,
+        4016
+    ],
+    "weight": null,
+    "autoFocus": 11
+}

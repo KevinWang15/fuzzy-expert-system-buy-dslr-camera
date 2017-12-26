@@ -1,0 +1,28 @@
+{
+    "name": "Sony Alpha 230",
+    "image": "//cdn.dxomark.com/dakdata/xml/Alpha_230/vignette3.png",
+    "brand": "Sony",
+    "price": 900,
+    "pixelDepth": 10.2,
+    "pixels": 10119040,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1242576000000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 2.5,
+    "resolution": [
+        3880,
+        2608
+    ],
+    "weight": null,
+    "autoFocus": null
+}

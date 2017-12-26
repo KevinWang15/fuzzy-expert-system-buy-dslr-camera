@@ -1,0 +1,28 @@
+{
+    "name": "Olympus PEN EP2",
+    "image": "//cdn.dxomark.com/dakdata/xml/PEN_EP2/vignette3.png",
+    "brand": "Olympus",
+    "price": 1100,
+    "pixelDepth": 12.3,
+    "pixels": 12644400,
+    "ISO": [
+        100,
+        6400
+    ],
+    "maxISO": 6400,
+    "launchDate": 1257350400000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        4100,
+        3084
+    ],
+    "weight": null,
+    "autoFocus": null
+}

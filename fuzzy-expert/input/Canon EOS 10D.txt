@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS 10D",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_10D/vignette3.png",
+    "brand": "Canon",
+    "price": 347,
+    "pixelDepth": 6.3,
+    "pixels": 6518336,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1046275200000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 3,
+    "resolution": [
+        3152,
+        2068
+    ],
+    "weight": null,
+    "autoFocus": null
+}

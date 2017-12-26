@@ -1,0 +1,28 @@
+{
+    "name": "Canon EOS M100",
+    "image": "//cdn.dxomark.com/dakdata/xml/EOS_M100/vignette3.png",
+    "brand": "Canon",
+    "price": 600,
+    "pixelDepth": 24.2,
+    "pixels": 25504128,
+    "ISO": [
+        100,
+        25600
+    ],
+    "maxISO": 25600,
+    "launchDate": 1503936000000,
+    "touchScreen": true,
+    "video": true,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": true,
+    "gps": null,
+    "isMetal": true,
+    "frameRate": 6.1,
+    "resolution": [
+        6288,
+        4056
+    ],
+    "weight": 266,
+    "autoFocus": 49
+}

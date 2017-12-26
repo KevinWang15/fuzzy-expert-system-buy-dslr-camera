@@ -1,0 +1,28 @@
+{
+    "name": "Olympus E600",
+    "image": "//cdn.dxomark.com/dakdata/xml/E600/vignette3.png",
+    "brand": "Olympus",
+    "price": 490,
+    "pixelDepth": 12.3,
+    "pixels": 12632064,
+    "ISO": [
+        100,
+        3200
+    ],
+    "maxISO": 3200,
+    "launchDate": 1251561600000,
+    "touchScreen": null,
+    "video": null,
+    "flash": null,
+    "waterproof": null,
+    "bluetooth": null,
+    "gps": null,
+    "isMetal": null,
+    "frameRate": 4,
+    "resolution": [
+        4096,
+        3084
+    ],
+    "weight": null,
+    "autoFocus": null
+}
