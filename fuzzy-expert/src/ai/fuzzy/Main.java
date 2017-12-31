@@ -58,6 +58,7 @@ public class Main {
                 PrintWriter out = new PrintWriter(Paths.get("result", fileEntry.getName()).toString());
                 out.print(jsonString);
                 out.close();
+                break;
             }
         }
     }
@@ -76,34 +77,46 @@ public class Main {
 
     static CameraAssesment assess(CameraData cameraData) {
         CameraAssesment cameraAssesment = new CameraAssesment();
-
-        // Load from 'FCL' file
-        String fileName = "fcl/tipper.fcl";
+        String fileName = "fcl/camera.fcl";
         FIS fis = FIS.load(fileName, true);
-
-        // Error while loading?
-        if (fis == null) {
-            System.err.println("Can't load file: '" + fileName + "'");
-            return null;
-        }
-
-        FunctionBlock functionBlock = fis.getFunctionBlock("tipper");
-        // Show
+        FunctionBlock functionBlock = fis.getFunctionBlock("camera");
 //        JFuzzyChart.get().chart(functionBlock);
 
         // Set inputs
-        fis.setVariable("service", 3);
-        fis.setVariable("food", 7);
+        fis.setVariable("price", cameraData.price);
+        fis.setVariable("pixelDepth", cameraData.pixelDepth);
+        fis.setVariable("pixels", cameraData.pixels);
+        fis.setVariable("maxISO", cameraData.maxISO);
+        fis.setVariable("weight", cameraData.weight);
+        fis.setVariable("autoFocus", cameraData.autoFocus);
+        fis.setVariable("launchDate", cameraData.launchDate);
+        fis.setVariable("frameRate", cameraData.frameRate);
+        fis.setVariable("touchScreen", cameraData.touchScreen ? 1 : 0);
+        fis.setVariable("video", cameraData.video ? 1 : 0);
+        fis.setVariable("flash", cameraData.flash ? 1 : 0);
+        fis.setVariable("waterproof", cameraData.waterproof ? 1 : 0);
+        fis.setVariable("bluetooth", cameraData.bluetooth ? 1 : 0);
+        fis.setVariable("gps", cameraData.gps ? 1 : 0);
+        fis.setVariable("isMetal", cameraData.isMetal ? 1 : 0);
 
         // Evaluate
         fis.evaluate();
+
+        cameraAssesment.travel = fis.getVariable("travel").defuzzify();
+        cameraAssesment.event = fis.getVariable("event").defuzzify();
+        cameraAssesment.sports = fis.getVariable("sports").defuzzify();
+        cameraAssesment.scenery = fis.getVariable("scenery").defuzzify();
+        cameraAssesment.portrait = fis.getVariable("portrait").defuzzify();
+        cameraAssesment.astronomy = fis.getVariable("astronomy").defuzzify();
+        cameraAssesment.newModel = fis.getVariable("newModel").defuzzify();
+        cameraAssesment.durableBuild = fis.getVariable("durableBuild").defuzzify();
+        cameraAssesment.lightBuild = fis.getVariable("lightBuild").defuzzify();
+        cameraAssesment.lowPrice = fis.getVariable("lowPrice").defuzzify();
 
         // Show output variable's chart
 //        Variable tip = functionBlock.getVariable("tip");
 //        JFuzzyChart.get().chart(tip, tip.getDefuzzifier(), true);
 
-        System.out.println(fis);
-        System.out.println(fis.getVariable("tip").defuzzify());
         return cameraAssesment;
     }
 }
