@@ -80,7 +80,7 @@ public class Main {
         String fileName = "fcl/camera.fcl";
         FIS fis = FIS.load(fileName, true);
         FunctionBlock functionBlock = fis.getFunctionBlock("camera");
-//        JFuzzyChart.get().chart(functionBlock);
+        JFuzzyChart.get().chart(functionBlock);
 
         // Set inputs
         fis.setVariable("price", cameraData.price);
@@ -99,23 +99,23 @@ public class Main {
         fis.setVariable("gps", cameraData.gps ? 1 : 0);
         fis.setVariable("isMetal", cameraData.isMetal ? 1 : 0);
 
+        // Show output variable's chart
+//        Variable price = functionBlock.getVariable("price");
+//        JFuzzyChart.get().chart(price, price.getDefuzzifier(), true);
+
         // Evaluate
         fis.evaluate();
 
-        cameraAssesment.travel = fis.getVariable("travel").defuzzify();
-        cameraAssesment.event = fis.getVariable("event").defuzzify();
-        cameraAssesment.sports = fis.getVariable("sports").defuzzify();
-        cameraAssesment.scenery = fis.getVariable("scenery").defuzzify();
-        cameraAssesment.portrait = fis.getVariable("portrait").defuzzify();
-        cameraAssesment.astronomy = fis.getVariable("astronomy").defuzzify();
-        cameraAssesment.newModel = fis.getVariable("newModel").defuzzify();
-        cameraAssesment.durableBuild = fis.getVariable("durableBuild").defuzzify();
-        cameraAssesment.lightBuild = fis.getVariable("lightBuild").defuzzify();
-        cameraAssesment.lowPrice = fis.getVariable("lowPrice").defuzzify();
-
-        // Show output variable's chart
-//        Variable tip = functionBlock.getVariable("tip");
-//        JFuzzyChart.get().chart(tip, tip.getDefuzzifier(), true);
+//        cameraAssesment.travel = fis.getVariable("travel").defuzzify();
+//        cameraAssesment.event = fis.getVariable("event").defuzzify();
+//        cameraAssesment.sports = fis.getVariable("sports").defuzzify();
+//        cameraAssesment.scenery = fis.getVariable("scenery").defuzzify();
+//        cameraAssesment.portrait = fis.getVariable("portrait").defuzzify();
+//        cameraAssesment.astronomy = fis.getVariable("astronomy").defuzzify();
+//        cameraAssesment.newModel = fis.getVariable("newModel").defuzzify();
+//        cameraAssesment.durableBuild = fis.getVariable("durableBuild").defuzzify();
+//        cameraAssesment.lightBuild = fis.getVariable("lightBuild").defuzzify();
+//        cameraAssesment.lowPrice = fis.getVariable("lowPrice").defuzzify();
 
         return cameraAssesment;
     }
