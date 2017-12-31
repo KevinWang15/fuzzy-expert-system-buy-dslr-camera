@@ -115,125 +115,159 @@ FUZZIFY isMetal
 END_FUZZIFY
 
 DEFUZZIFY travel
-	TERM bad := (0,1) (0.5,0);
+	TERM veryBad := (0,1) (0.2,0);
+	TERM bad := (0,0) (0.1,1) (0.5,0);
 	TERM average:= (0,0) (0.5,1) (1,0);
-	TERM good:= (0.5,0) (1,1);
+	TERM good:= (0.5,0) (0.9,1) (1,0);
+	TERM veryGood:= (0.8,0) (1,1);
 	METHOD : COG;
 	DEFAULT := 0.5;
 END_DEFUZZIFY
 
 DEFUZZIFY event
-	TERM bad := (0,1) (0.5,0);
+	TERM veryBad := (0,1) (0.2,0);
+	TERM bad := (0,0) (0.1,1) (0.5,0);
 	TERM average:= (0,0) (0.5,1) (1,0);
-	TERM good:= (0.5,0) (1,1);
+	TERM good:= (0.5,0) (0.9,1) (1,0);
+	TERM veryGood:= (0.8,0) (1,1);
 	METHOD : COG;
 	DEFAULT := 0.5;
 END_DEFUZZIFY
 
 DEFUZZIFY sports
-	TERM bad := (0,1) (0.5,0);
+	TERM veryBad := (0,1) (0.2,0);
+	TERM bad := (0,0) (0.1,1) (0.5,0);
 	TERM average:= (0,0) (0.5,1) (1,0);
-	TERM good:= (0.5,0) (1,1);
+	TERM good:= (0.5,0) (0.9,1) (1,0);
+	TERM veryGood:= (0.8,0) (1,1);
 	METHOD : COG;
 	DEFAULT := 0.5;
 END_DEFUZZIFY
 
 DEFUZZIFY scenery
-	TERM bad := (0,1) (0.5,0);
+	TERM veryBad := (0,1) (0.2,0);
+	TERM bad := (0,0) (0.1,1) (0.5,0);
 	TERM average:= (0,0) (0.5,1) (1,0);
-	TERM good:= (0.5,0) (1,1);
+	TERM good:= (0.5,0) (0.9,1) (1,0);
+	TERM veryGood:= (0.8,0) (1,1);
 	METHOD : COG;
 	DEFAULT := 0.5;
 END_DEFUZZIFY
 
 DEFUZZIFY portrait
-	TERM bad := (0,1) (0.5,0);
+	TERM veryBad := (0,1) (0.2,0);
+	TERM bad := (0,0) (0.1,1) (0.5,0);
 	TERM average:= (0,0) (0.5,1) (1,0);
-	TERM good:= (0.5,0) (1,1);
+	TERM good:= (0.5,0) (0.9,1) (1,0);
+	TERM veryGood:= (0.8,0) (1,1);
 	METHOD : COG;
 	DEFAULT := 0.5;
 END_DEFUZZIFY
 
 DEFUZZIFY astronomy
-	TERM bad := (0,1) (0.5,0);
+	TERM veryBad := (0,1) (0.2,0);
+	TERM bad := (0,0) (0.1,1) (0.5,0);
 	TERM average:= (0,0) (0.5,1) (1,0);
-	TERM good:= (0.5,0) (1,1);
+	TERM good:= (0.5,0) (0.9,1) (1,0);
+	TERM veryGood:= (0.8,0) (1,1);
 	METHOD : COG;
 	DEFAULT := 0.5;
 END_DEFUZZIFY
 
 DEFUZZIFY newModel
-	TERM bad := (0,1) (0.5,0);
+	TERM veryBad := (0,1) (0.2,0);
+	TERM bad := (0,0) (0.1,1) (0.5,0);
 	TERM average:= (0,0) (0.5,1) (1,0);
-	TERM good:= (0.5,0) (1,1);
+	TERM good:= (0.5,0) (0.9,1) (1,0);
+	TERM veryGood:= (0.8,0) (1,1);
 	METHOD : COG;
 	DEFAULT := 0.5;
 END_DEFUZZIFY
 
 DEFUZZIFY durableBuild
-	TERM bad := (0,1) (0.5,0);
+	TERM veryBad := (0,1) (0.2,0);
+	TERM bad := (0,0) (0.1,1) (0.5,0);
 	TERM average:= (0,0) (0.5,1) (1,0);
-	TERM good:= (0.5,0) (1,1);
+	TERM good:= (0.5,0) (0.9,1) (1,0);
+	TERM veryGood:= (0.8,0) (1,1);
 	METHOD : COG;
 	DEFAULT := 0.5;
 END_DEFUZZIFY
 
 DEFUZZIFY lightBuild
-	TERM bad := (0,1) (0.5,0);
+	TERM veryBad := (0,1) (0.2,0);
+	TERM bad := (0,0) (0.1,1) (0.5,0);
 	TERM average:= (0,0) (0.5,1) (1,0);
-	TERM good:= (0.5,0) (1,1);
+	TERM good:= (0.5,0) (0.9,1) (1,0);
+	TERM veryGood:= (0.8,0) (1,1);
 	METHOD : COG;
 	DEFAULT := 0.5;
 END_DEFUZZIFY
 
 DEFUZZIFY lowPrice
-	TERM bad := (0,1) (0.5,0);
+	TERM veryBad := (0,1) (0.2,0);
+	TERM bad := (0,0) (0.1,1) (0.5,0);
 	TERM average:= (0,0) (0.5,1) (1,0);
-	TERM good:= (0.5,0) (1,1);
+	TERM good:= (0.5,0) (0.9,1) (1,0);
+	TERM veryGood:= (0.8,0) (1,1);
 	METHOD : COG;
 	DEFAULT := 0.5;
 END_DEFUZZIFY
 
 RULEBLOCK travel
 	AND : MIN;
-
-	RULE 1 : IF weight IS light OR video IS yes OR gps IS yes THEN travel IS good;
-	RULE 2 : IF weight IS heavy OR flash IS no THEN travel IS bad;
+	RULE 1 : IF weight IS light THEN travel IS good;
+	RULE 2 : IF video IS yes THEN travel IS good;
+	RULE 3 : IF gps IS yes THEN travel IS good;
+	RULE 4 : IF flash IS no THEN travel IS bad;
+	RULE 5 : IF weight IS heavy THEN travel IS veryBad;
 END_RULEBLOCK
 
 RULEBLOCK event
 	AND : MIN;
 
-	RULE 1 : IF frameRate IS high OR gps IS yes OR bluetooth IS yes THEN event IS good;
-	RULE 2 : IF flash IS no THEN event IS bad;
+	RULE 1 : IF frameRate IS high THEN event IS good;
+	RULE 2 : IF gps IS yes THEN event IS good;
+	RULE 3 : IF bluetooth IS yes THEN event IS good;
+	RULE 4 : IF flash IS no THEN event IS bad;
 END_RULEBLOCK
 
 RULEBLOCK sports
 	AND : MIN;
 
-	RULE 1 : IF frameRate IS high OR autoFocus IS high THEN sports IS good;
-	RULE 2 : IF autoFocus IS low THEN sports IS bad;
+	RULE 1 : IF frameRate IS high THEN sports IS veryGood;
+	RULE 2 : IF autoFocus IS high THEN sports IS veryGood;
+	RULE 3 : IF pixels IS high THEN sports IS good;
+	RULE 4 : IF frameRate IS low THEN sports IS veryBad;
+	RULE 5 : IF autoFocus IS low THEN sports IS veryBad;
 END_RULEBLOCK
 
 RULEBLOCK scenery
 	AND : MIN;
 
-	RULE 1 : IF pixels IS high OR pixelDepth IS high OR maxISO IS high OR gps IS yes THEN scenery IS good;
-	RULE 2 : IF pixelDepth IS low THEN scenery IS bad;
+	RULE 1 : IF pixels IS high THEN scenery IS veryGood;
+	RULE 2 : IF pixelDepth IS high THEN scenery IS veryGood;
+	RULE 3 : IF maxISO IS high THEN scenery IS good;
+	RULE 4 : IF gps IS yes THEN scenery IS good;
+	RULE 5 : IF pixelDepth IS low THEN scenery IS bad;
 END_RULEBLOCK
 
 RULEBLOCK portrait
 	AND : MIN;
 
-	RULE 1 : IF pixels IS high OR pixelDepth IS high THEN portrait IS good;
-	RULE 2 : IF pixelDepth IS low THEN portrait IS bad;
+	RULE 1 : IF pixels IS high THEN portrait IS good;
+	RULE 2 : IF pixelDepth IS high THEN portrait IS good;
+	RULE 3 : IF pixelDepth IS low THEN portrait IS bad;
 END_RULEBLOCK
 
 RULEBLOCK astronomy
-	AND : MIN;
+    AND : MIN;
 
-	RULE 1 : IF pixels IS high OR pixelDepth IS high OR maxISO IS high THEN astronomy IS good;
-    	RULE 2 : IF maxISO IS low THEN astronomy IS bad;
+    RULE 1 : IF pixels IS high THEN astronomy IS good;
+    RULE 2 : IF pixelDepth IS high THEN astronomy IS good;
+    RULE 3 : IF maxISO IS high THEN astronomy IS good;
+    RULE 4 : IF maxISO IS low THEN astronomy IS veryBad;
+    RULE 5 : IF pixels IS low THEN astronomy IS veryBad;
 END_RULEBLOCK
 
 RULEBLOCK newModel

@@ -2,15 +2,15 @@
 	"ISO":[100,12800],
 	"assessment":{
 		"astronomy":0.5,
-		"durableBuild":0.16633333333333336,
-		"event":0.16633333333333336,
+		"durableBuild":0.1999999999999999,
+		"event":0.1999999999999999,
 		"lightBuild":0.5000000000000002,
-		"lowPrice":0.5227113891679602,
-		"newModel":0.47106955446659354,
+		"lowPrice":0.5223287671232876,
+		"newModel":0.47174036842704004,
 		"portrait":0.5,
 		"scenery":0.5,
-		"sports":0.1854488825487402,
-		"travel":0.16633333333333336
+		"sports":0.07724829122938497,
+		"travel":0.1999999999999999
 	},
 	"autoFocus":6,
 	"bluetooth":false,

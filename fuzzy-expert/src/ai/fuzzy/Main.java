@@ -2,6 +2,8 @@ package ai.fuzzy;
 
 import com.alibaba.fastjson.JSON;
 import net.sourceforge.jFuzzyLogic.FIS;
+import net.sourceforge.jFuzzyLogic.JFuzzyLogic;
+import net.sourceforge.jFuzzyLogic.plot.JFuzzyChart;
 
 import java.io.*;
 import java.nio.file.Paths;
@@ -77,6 +79,7 @@ public class Main {
         CameraAssessment cameraAssessment = new CameraAssessment();
         String fileName = "fcl/camera.fcl";
         FIS fis = FIS.load(fileName, true);
+
 
         // Set inputs
         fis.setVariable("price", cameraData.price);
