@@ -10,7 +10,7 @@ export default class App extends React.Component {
   constructor() {
     super();
     this.state = {
-      selection: [[1, 0, 0, 1, 0, 1], [1, 1, 1, 1, 1], 0, 0, [1, 0]],
+      selection: [[1, 0, 1, 0, 1, 1], [1, 1, 0, 0, 1], 0, 0, [1, 0]],
       recommendations: [],
     };
   }
@@ -77,7 +77,7 @@ export default class App extends React.Component {
                     {recommendation.name}
                   </div>
                   <div className="score">
-                    推荐指数：{recommendation.score.toFixed(2)}
+                    推荐指数：{(recommendation.score+ 5).toFixed(2) }
                   </div>
                 </div>
 
@@ -120,19 +120,21 @@ export default class App extends React.Component {
                 <div className="pros-cons">
 
                   <div className="pros">
-                    Pros
+                    <b>Pros</b>
                     <div className="list">
                       {recommendation.pros.map(_ =>
-                        <div>+ {translateTag(_[1])},{_[0]}</div>,
+                        <div>+ {translateTag(_[1])} <span
+                          className="score-hint">+{_[0].toFixed(2)}</span></div>,
                       )}
                     </div>
                   </div>
 
                   <div className="cons">
-                    Cons
+                    <b>Cons</b>
                     <div className="list">
                       {recommendation.cons.map(_ =>
-                        <div>- {translateTag(_[1], true)},{_[0]}</div>,
+                        <div>- {translateTag(_[1], true)} <span
+                          className="score-hint">{_[0].toFixed(2)}</span></div>,
                       )}
                     </div>
                   </div>

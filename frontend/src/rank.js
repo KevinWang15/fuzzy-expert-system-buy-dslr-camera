@@ -44,11 +44,11 @@ const weight = {
   newModel: 0.5,
   lowPrice: 0.2,
   lightBuild: 0.4,
-  travel: 3,
+  travel: 2,
   event: 3,
-  sports: 3,
+  sports: 2,
   scenery: 3,
-  portrait: 3,
+  portrait: 5,
   astronomy: 3,
 };
 

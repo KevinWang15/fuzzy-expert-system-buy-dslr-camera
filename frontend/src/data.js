@@ -1,5 +1,5 @@
 function normalizeAssessment(data) {
-  const shift = -.2;
+  const shift = -.25;
   let average = {};
   let sum = {
     "astronomy": 0,

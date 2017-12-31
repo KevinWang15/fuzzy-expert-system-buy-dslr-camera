@@ -1,6 +1,6 @@
 export default function translateTag(tag, inCons = false) {
   let prosDict = {
-    '!lowPrice': '价格符合预算',
+    '!lowPrice': '专业级别一步到位',
     'lowPrice': '价格较低',
     '!lightBuild': '手感扎实',
     'lightBuild': '相机轻',
