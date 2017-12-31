@@ -114,5 +114,84 @@ FUZZIFY isMetal
 	TERM yes := (0, 0) (1, 1) ;
 END_FUZZIFY
 
+DEFUZZIFY travel
+	TERM bad := (0,1) (0.5,0);
+	TERM average:= (0,0) (0.5,1) (1,0);
+	TERM good:= (0.5,0) (1,1);
+	METHOD : COG;
+	DEFAULT := 0.5;
+END_DEFUZZIFY
+
+DEFUZZIFY event
+	TERM bad := (0,1) (0.5,0);
+	TERM average:= (0,0) (0.5,1) (1,0);
+	TERM good:= (0.5,0) (1,1);
+	METHOD : COG;
+	DEFAULT := 0.5;
+END_DEFUZZIFY
+
+DEFUZZIFY sports
+	TERM bad := (0,1) (0.5,0);
+	TERM average:= (0,0) (0.5,1) (1,0);
+	TERM good:= (0.5,0) (1,1);
+	METHOD : COG;
+	DEFAULT := 0.5;
+END_DEFUZZIFY
+
+DEFUZZIFY scenery
+	TERM bad := (0,1) (0.5,0);
+	TERM average:= (0,0) (0.5,1) (1,0);
+	TERM good:= (0.5,0) (1,1);
+	METHOD : COG;
+	DEFAULT := 0.5;
+END_DEFUZZIFY
+
+DEFUZZIFY portrait
+	TERM bad := (0,1) (0.5,0);
+	TERM average:= (0,0) (0.5,1) (1,0);
+	TERM good:= (0.5,0) (1,1);
+	METHOD : COG;
+	DEFAULT := 0.5;
+END_DEFUZZIFY
+
+DEFUZZIFY astronomy
+	TERM bad := (0,1) (0.5,0);
+	TERM average:= (0,0) (0.5,1) (1,0);
+	TERM good:= (0.5,0) (1,1);
+	METHOD : COG;
+	DEFAULT := 0.5;
+END_DEFUZZIFY
+
+DEFUZZIFY newModel
+	TERM bad := (0,1) (0.5,0);
+	TERM average:= (0,0) (0.5,1) (1,0);
+	TERM good:= (0.5,0) (1,1);
+	METHOD : COG;
+	DEFAULT := 0.5;
+END_DEFUZZIFY
+
+DEFUZZIFY durableBuild
+	TERM bad := (0,1) (0.5,0);
+	TERM average:= (0,0) (0.5,1) (1,0);
+	TERM good:= (0.5,0) (1,1);
+	METHOD : COG;
+	DEFAULT := 0.5;
+END_DEFUZZIFY
+
+DEFUZZIFY lightBuild
+	TERM bad := (0,1) (0.5,0);
+	TERM average:= (0,0) (0.5,1) (1,0);
+	TERM good:= (0.5,0) (1,1);
+	METHOD : COG;
+	DEFAULT := 0.5;
+END_DEFUZZIFY
+
+DEFUZZIFY lowPrice
+	TERM bad := (0,1) (0.5,0);
+	TERM average:= (0,0) (0.5,1) (1,0);
+	TERM good:= (0.5,0) (1,1);
+	METHOD : COG;
+	DEFAULT := 0.5;
+END_DEFUZZIFY
 
 END_FUNCTION_BLOCK
