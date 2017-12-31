@@ -1,0 +1,32 @@
+{
+	"ISO":[100,1600],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"bluetooth":false,
+	"brand":"Olympus",
+	"flash":false,
+	"frameRate":3.5,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/E520/vignette3.png",
+	"isMetal":false,
+	"launchDate":1210608000000,
+	"maxISO":1600,
+	"name":"Olympus E520",
+	"pixelDepth":10,
+	"pixels":10416000,
+	"price":450,
+	"resolution":[3720,2800],
+	"touchScreen":false,
+	"video":false,
+	"waterproof":false
+}

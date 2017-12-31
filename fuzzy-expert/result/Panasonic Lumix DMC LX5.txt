@@ -1,0 +1,33 @@
+{
+	"ISO":[80,12800],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"autoFocus":23,
+	"bluetooth":false,
+	"brand":"Panasonic",
+	"flash":false,
+	"frameRate":5.0,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/Lumix_DMC_LX5/vignette3.png",
+	"isMetal":false,
+	"launchDate":1279641600000,
+	"maxISO":12800,
+	"name":"Panasonic Lumix DMC LX5",
+	"pixelDepth":10,
+	"pixels":9980928,
+	"price":470,
+	"resolution":[3648,2736],
+	"touchScreen":false,
+	"video":true,
+	"waterproof":false
+}

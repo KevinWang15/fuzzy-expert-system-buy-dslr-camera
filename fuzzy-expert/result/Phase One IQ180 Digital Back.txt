@@ -1,0 +1,32 @@
+{
+	"ISO":[35,3200],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"bluetooth":false,
+	"brand":"Phase One",
+	"flash":false,
+	"frameRate":0.7,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/IQ180_Digital_Back/vignette3.png",
+	"isMetal":false,
+	"launchDate":1295798400000,
+	"maxISO":3200,
+	"name":"Phase One IQ180 Digital Back",
+	"pixelDepth":80,
+	"pixels":81130080,
+	"price":42490,
+	"resolution":[10380,7816],
+	"touchScreen":true,
+	"video":false,
+	"waterproof":false
+}

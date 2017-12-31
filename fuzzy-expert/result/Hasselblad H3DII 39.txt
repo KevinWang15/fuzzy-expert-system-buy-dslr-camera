@@ -1,0 +1,32 @@
+{
+	"ISO":[50,400],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"bluetooth":false,
+	"brand":"Hasselblad",
+	"flash":false,
+	"frameRate":0.7,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/H3DII_39/vignette3.png",
+	"isMetal":false,
+	"launchDate":1196006400000,
+	"maxISO":400,
+	"name":"Hasselblad H3DII 39",
+	"pixelDepth":39,
+	"pixels":39458112,
+	"price":22000,
+	"resolution":[7248,5444],
+	"touchScreen":false,
+	"video":false,
+	"waterproof":false
+}

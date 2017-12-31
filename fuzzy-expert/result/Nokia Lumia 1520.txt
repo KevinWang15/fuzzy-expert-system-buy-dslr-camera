@@ -1,0 +1,32 @@
+{
+	"ISO":[100,4000],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"autoFocus":0,
+	"bluetooth":true,
+	"brand":"Nokia",
+	"flash":false,
+	"gps":true,
+	"image":"//cdn.dxomark.com/dakdata/xml/Lumia_1520/vignette3.png",
+	"isMetal":false,
+	"launchDate":1384444800000,
+	"maxISO":4000,
+	"name":"Nokia Lumia 1520",
+	"pixelDepth":20,
+	"pixels":18690048,
+	"price":600,
+	"resolution":[4992,3744],
+	"touchScreen":true,
+	"video":true,
+	"waterproof":false
+}

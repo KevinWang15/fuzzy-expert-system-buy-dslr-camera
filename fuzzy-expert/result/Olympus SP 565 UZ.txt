@@ -1,0 +1,32 @@
+{
+	"ISO":[64,1600],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"bluetooth":false,
+	"brand":"Olympus",
+	"flash":false,
+	"frameRate":1.2,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/SP_565_UZ/vignette3.png",
+	"isMetal":false,
+	"launchDate":1219593600000,
+	"maxISO":1600,
+	"name":"Olympus SP 565 UZ",
+	"pixelDepth":10,
+	"pixels":10046688,
+	"price":433,
+	"resolution":[3664,2742],
+	"touchScreen":false,
+	"video":false,
+	"waterproof":false
+}

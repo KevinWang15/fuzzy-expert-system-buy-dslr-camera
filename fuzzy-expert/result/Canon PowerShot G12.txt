@@ -1,0 +1,32 @@
+{
+	"ISO":[80,3200],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"bluetooth":false,
+	"brand":"Canon",
+	"flash":false,
+	"frameRate":2.0,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/PowerShot_G12/vignette3.png",
+	"isMetal":false,
+	"launchDate":1284393600000,
+	"maxISO":3200,
+	"name":"Canon PowerShot G12",
+	"pixelDepth":10,
+	"pixels":9980928,
+	"price":499,
+	"resolution":[3648,2736],
+	"touchScreen":false,
+	"video":true,
+	"waterproof":false
+}

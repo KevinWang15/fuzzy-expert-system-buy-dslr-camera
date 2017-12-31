@@ -1,0 +1,32 @@
+{
+	"ISO":[80,3200],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"bluetooth":false,
+	"brand":"Panasonic",
+	"flash":false,
+	"frameRate":2.5,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/Lumix_DMC_LX3/vignette3.png",
+	"isMetal":false,
+	"launchDate":1219248000000,
+	"maxISO":3200,
+	"name":"Panasonic Lumix DMC LX3",
+	"pixelDepth":10,
+	"pixels":10101672,
+	"price":450,
+	"resolution":[3668,2754],
+	"touchScreen":false,
+	"video":false,
+	"waterproof":false
+}

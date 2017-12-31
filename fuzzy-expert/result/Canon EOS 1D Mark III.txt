@@ -1,0 +1,32 @@
+{
+	"ISO":[50,6400],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"bluetooth":false,
+	"brand":"Canon",
+	"flash":false,
+	"frameRate":10.0,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/EOS_1D_Mark_III/vignette3.png",
+	"isMetal":false,
+	"launchDate":1172073600000,
+	"maxISO":6400,
+	"name":"Canon EOS 1D Mark III",
+	"pixelDepth":10,
+	"pixels":10446048,
+	"price":4050,
+	"resolution":[3984,2622],
+	"touchScreen":false,
+	"video":false,
+	"waterproof":false
+}

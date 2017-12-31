@@ -1,0 +1,33 @@
+{
+	"ISO":[200,12800],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"autoFocus":35,
+	"bluetooth":false,
+	"brand":"Olympus",
+	"flash":false,
+	"frameRate":3.0,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/PEN_EP3/vignette3.png",
+	"isMetal":true,
+	"launchDate":1309363200000,
+	"maxISO":12800,
+	"name":"Olympus PEN EP3",
+	"pixelDepth":12,
+	"pixels":12403200,
+	"price":1000,
+	"resolution":[4080,3040],
+	"touchScreen":true,
+	"video":true,
+	"waterproof":false
+}

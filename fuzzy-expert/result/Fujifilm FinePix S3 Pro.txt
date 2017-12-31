@@ -1,0 +1,32 @@
+{
+	"ISO":[100,1600],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"bluetooth":false,
+	"brand":"Fujifilm",
+	"flash":false,
+	"frameRate":2.5,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/FinePix_S3_Pro/vignette3.png",
+	"isMetal":false,
+	"launchDate":1075910400000,
+	"maxISO":1600,
+	"name":"Fujifilm FinePix S3 Pro",
+	"pixelDepth":6,
+	"pixels":6096384,
+	"price":1190,
+	"resolution":[3024,2016],
+	"touchScreen":false,
+	"video":false,
+	"waterproof":false
+}

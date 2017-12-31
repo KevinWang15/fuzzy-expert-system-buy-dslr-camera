@@ -1,0 +1,33 @@
+{
+	"ISO":[100,12800],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"autoFocus":15,
+	"bluetooth":false,
+	"brand":"Samsung",
+	"flash":false,
+	"frameRate":8.0,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/NX_210/vignette3.png",
+	"isMetal":true,
+	"launchDate":1334764800000,
+	"maxISO":12800,
+	"name":"Samsung NX 210",
+	"pixelDepth":20,
+	"pixels":20427820,
+	"price":899,
+	"resolution":[5530,3694],
+	"touchScreen":false,
+	"video":true,
+	"waterproof":false
+}

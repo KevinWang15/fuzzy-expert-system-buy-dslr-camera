@@ -1,0 +1,33 @@
+{
+	"ISO":[100,6400],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"autoFocus":99,
+	"bluetooth":false,
+	"brand":"Nikon",
+	"flash":false,
+	"frameRate":1.3,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/Coolpix_P7000/vignette3.png",
+	"isMetal":false,
+	"launchDate":1283875200000,
+	"maxISO":6400,
+	"name":"Nikon Coolpix P7000",
+	"pixelDepth":10,
+	"pixels":10046688,
+	"price":500,
+	"resolution":[3664,2742],
+	"touchScreen":false,
+	"video":true,
+	"waterproof":false
+}

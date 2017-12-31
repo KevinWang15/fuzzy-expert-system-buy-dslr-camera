@@ -1,0 +1,33 @@
+{
+	"ISO":[100,12800],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"autoFocus":15,
+	"bluetooth":false,
+	"brand":"Sony",
+	"flash":false,
+	"frameRate":10.0,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/SLT_Alpha_55/vignette3.png",
+	"isMetal":false,
+	"launchDate":1282579200000,
+	"maxISO":12800,
+	"name":"Sony SLT Alpha 55",
+	"pixelDepth":16,
+	"pixels":16032768,
+	"price":750,
+	"resolution":[4912,3264],
+	"touchScreen":false,
+	"video":true,
+	"waterproof":false
+}

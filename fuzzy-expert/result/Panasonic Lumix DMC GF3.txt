@@ -1,0 +1,32 @@
+{
+	"ISO":[160,6400],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"bluetooth":false,
+	"brand":"Panasonic",
+	"flash":false,
+	"frameRate":3.8,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/Lumix_DMC_GF3/vignette3.png",
+	"isMetal":false,
+	"launchDate":1307894400000,
+	"maxISO":6400,
+	"name":"Panasonic Lumix DMC GF3",
+	"pixelDepth":12,
+	"pixels":12112256,
+	"price":699,
+	"resolution":[4016,3016],
+	"touchScreen":false,
+	"video":true,
+	"waterproof":false
+}

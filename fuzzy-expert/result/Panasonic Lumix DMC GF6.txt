@@ -1,0 +1,33 @@
+{
+	"ISO":[160,25600],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"autoFocus":23,
+	"bluetooth":false,
+	"brand":"Panasonic",
+	"flash":false,
+	"frameRate":20.0,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/Lumix_DMC_GF6/vignette3.png",
+	"isMetal":true,
+	"launchDate":1365436800000,
+	"maxISO":25600,
+	"name":"Panasonic Lumix DMC GF6",
+	"pixelDepth":16,
+	"pixels":15962112,
+	"price":680,
+	"resolution":[4608,3464],
+	"touchScreen":true,
+	"video":true,
+	"waterproof":false
+}

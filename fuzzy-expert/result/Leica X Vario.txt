@@ -1,0 +1,33 @@
+{
+	"ISO":[100,12500],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"autoFocus":11,
+	"bluetooth":false,
+	"brand":"Leica",
+	"flash":false,
+	"frameRate":5.0,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/X_Vario/vignette3.png",
+	"isMetal":true,
+	"launchDate":1370880000000,
+	"maxISO":12500,
+	"name":"Leica X Vario",
+	"pixelDepth":16,
+	"pixels":16186656,
+	"price":2850,
+	"resolution":[4944,3274],
+	"touchScreen":false,
+	"video":true,
+	"waterproof":false
+}

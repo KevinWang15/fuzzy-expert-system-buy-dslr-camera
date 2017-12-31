@@ -1,0 +1,32 @@
+{
+	"ISO":[50,400],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"bluetooth":false,
+	"brand":"Hasselblad",
+	"flash":false,
+	"frameRate":0.9,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/H3DII_50/vignette3.png",
+	"isMetal":false,
+	"launchDate":1196006400000,
+	"maxISO":400,
+	"name":"Hasselblad H3DII 50",
+	"pixelDepth":50,
+	"pixels":51679680,
+	"price":20000,
+	"resolution":[8282,6240],
+	"touchScreen":false,
+	"video":false,
+	"waterproof":false
+}

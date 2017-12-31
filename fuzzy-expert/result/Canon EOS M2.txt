@@ -1,0 +1,33 @@
+{
+	"ISO":[100,25600],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"autoFocus":31,
+	"bluetooth":false,
+	"brand":"Canon",
+	"flash":false,
+	"frameRate":4.6,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/EOS_M2/vignette3.png",
+	"isMetal":true,
+	"launchDate":1386000000000,
+	"maxISO":25600,
+	"name":"Canon EOS M2",
+	"pixelDepth":18,
+	"pixels":18103008,
+	"price":650,
+	"resolution":[5208,3476],
+	"touchScreen":false,
+	"video":true,
+	"waterproof":false
+}

@@ -1,0 +1,32 @@
+{
+	"ISO":[50,800],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"bluetooth":false,
+	"brand":"Phase One",
+	"flash":false,
+	"frameRate":0.67,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/P45_Plus/vignette3.png",
+	"isMetal":false,
+	"launchDate":1167580800000,
+	"maxISO":800,
+	"name":"Phase One P45 Plus",
+	"pixelDepth":39,
+	"pixels":39447224,
+	"price":32990,
+	"resolution":[7246,5444],
+	"touchScreen":false,
+	"video":false,
+	"waterproof":false
+}

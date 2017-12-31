@@ -1,0 +1,32 @@
+{
+	"ISO":[100,12800],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"bluetooth":false,
+	"brand":"Fujifilm",
+	"flash":false,
+	"gps":true,
+	"image":"//cdn.dxomark.com/dakdata/xml/FinePix_F550EXR/vignette3.png",
+	"isMetal":false,
+	"launchDate":1294156800000,
+	"maxISO":12800,
+	"name":"Fujifilm FinePix F550EXR",
+	"pixelDepth":16,
+	"pixels":16076305,
+	"price":450,
+	"resolution":[4613,3485],
+	"touchScreen":false,
+	"video":true,
+	"waterproof":false,
+	"weight":195
+}

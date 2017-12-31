@@ -1,0 +1,33 @@
+{
+	"ISO":[80,2500],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"autoFocus":0,
+	"bluetooth":false,
+	"brand":"Leica",
+	"flash":false,
+	"frameRate":2.0,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/M-E_Typ_220/vignette3.png",
+	"isMetal":true,
+	"launchDate":1347811200000,
+	"maxISO":2500,
+	"name":"Leica M-E Typ 220",
+	"pixelDepth":18,
+	"pixels":18109952,
+	"price":5450,
+	"resolution":[5216,3472],
+	"touchScreen":false,
+	"video":false,
+	"waterproof":false
+}

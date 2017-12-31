@@ -1,0 +1,32 @@
+{
+	"ISO":[50,800],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"bluetooth":false,
+	"brand":"Leaf",
+	"flash":false,
+	"frameRate":0.83,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/Aptus75S/vignette3.png",
+	"isMetal":false,
+	"launchDate":1159200000000,
+	"maxISO":800,
+	"name":"Leaf Aptus75S",
+	"pixelDepth":33,
+	"pixels":33276672,
+	"price":32995,
+	"resolution":[6666,4992],
+	"touchScreen":false,
+	"video":false,
+	"waterproof":false
+}

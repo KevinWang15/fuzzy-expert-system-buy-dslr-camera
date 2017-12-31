@@ -1,0 +1,32 @@
+{
+	"ISO":[100,3200],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"bluetooth":false,
+	"brand":"Nikon",
+	"flash":false,
+	"frameRate":3.0,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/D80/vignette3.png",
+	"isMetal":false,
+	"launchDate":1155052800000,
+	"maxISO":3200,
+	"name":"Nikon D80",
+	"pixelDepth":10,
+	"pixels":10190700,
+	"price":730,
+	"resolution":[3900,2613],
+	"touchScreen":false,
+	"video":false,
+	"waterproof":false
+}

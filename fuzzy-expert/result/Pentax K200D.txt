@@ -1,0 +1,32 @@
+{
+	"ISO":[100,1600],
+	"assesment":{
+		"astronomy":0.0,
+		"durableBuild":0.0,
+		"event":0.0,
+		"lightBuild":0.0,
+		"lowPrice":0.0,
+		"newModel":0.0,
+		"portrait":0.0,
+		"scenery":0.0,
+		"sports":0.0,
+		"travel":0.0
+	},
+	"bluetooth":false,
+	"brand":"Pentax",
+	"flash":false,
+	"frameRate":2.8,
+	"gps":false,
+	"image":"//cdn.dxomark.com/dakdata/xml/K200D/vignette3.png",
+	"isMetal":false,
+	"launchDate":1201017600000,
+	"maxISO":1600,
+	"name":"Pentax K200D",
+	"pixelDepth":10,
+	"pixels":10191936,
+	"price":660,
+	"resolution":[3896,2616],
+	"touchScreen":false,
+	"video":false,
+	"waterproof":false
+}
