@@ -28,7 +28,7 @@ let questions = [
     ],
   },
   {
-    text: "您对愿意在单反上投入的经济",
+    text: "您愿意在单反上投入的经济",
     options: [
       { text: '很多，一步到位买高端设备', value: "!lowPrice" },
       { text: '普通，好用实用的设备' },

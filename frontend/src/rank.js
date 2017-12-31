@@ -36,8 +36,30 @@ export default function rank(selection) {
       return Math.abs(b[0]) - Math.abs(a[0]);
     });
   });
+  console.log(sortedData);
   return retData;
 }
+
+const weight = {
+  newModel: 0.5,
+  lowPrice: 0.2,
+  lightBuild: 0.4,
+  travel: 3,
+  event: 3,
+  sports: 3,
+  scenery: 3,
+  portrait: 3,
+  astronomy: 3,
+};
+
+const shift = {
+  travel: -1.5,
+  event: -1.5,
+  sports: -1.5,
+  scenery: -1.5,
+  portrait: -1.5,
+  astronomy: -1.5,
+};
 
 function evaluate(item, tags) {
   let score = 0, changes = [];
@@ -51,9 +73,9 @@ function evaluate(item, tags) {
     }
     let scoreChange = 0;
     if (item.assessment[normalizedTag]) { // 如果是专家系统assess出来的结果，一个占20分
-      scoreChange = (reverse ? -1 : 1) * item.assessment[normalizedTag] * 20 - 10;
-    } else if (item[normalizedTag]) { // 如果不是，那么是“防水”等基本要求，一个占5分
-      scoreChange = (reverse ? -1 : 1) * 5 - 2.5;
+      scoreChange = (reverse ? -1 : 1) * (item.assessment[normalizedTag] * 20 + (shift[normalizedTag] || 0)) * (weight[normalizedTag] || 1);
+    } else { // 如果不是，那么是“防水”等基本要求，一个占3分
+      scoreChange = (reverse ? -1 : 1) * (item[normalizedTag] ? 1 : -1) * (3 + (shift[normalizedTag] || 0)) * (weight[normalizedTag] || 1);
     }
     if (scoreChange) {
       score += scoreChange;

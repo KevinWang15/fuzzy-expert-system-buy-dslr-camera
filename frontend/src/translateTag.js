@@ -2,7 +2,7 @@ export default function translateTag(tag, inCons = false) {
   let prosDict = {
     '!lowPrice': '价格符合预算',
     'lowPrice': '价格较低',
-    '!lightBuild': '',
+    '!lightBuild': '手感扎实',
     'lightBuild': '相机轻',
     'scenery': '拍摄风景效果好',
     'travel': '合适旅行时使用',

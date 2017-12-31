@@ -10,7 +10,7 @@ export default class App extends React.Component {
   constructor() {
     super();
     this.state = {
-      selection: [[1, 0, 0, 1, 0, 0], [0, 1, 0, 0, 1], 1, 2, [0, 1]],
+      selection: [[1, 0, 0, 1, 0, 1], [1, 1, 1, 1, 1], 0, 0, [1, 0]],
       recommendations: [],
     };
   }
@@ -123,7 +123,7 @@ export default class App extends React.Component {
                     Pros
                     <div className="list">
                       {recommendation.pros.map(_ =>
-                        <div>+ {translateTag(_[1])}</div>,
+                        <div>+ {translateTag(_[1])},{_[0]}</div>,
                       )}
                     </div>
                   </div>
@@ -132,7 +132,7 @@ export default class App extends React.Component {
                     Cons
                     <div className="list">
                       {recommendation.cons.map(_ =>
-                        <div>- {translateTag(_[1], true)}</div>,
+                        <div>- {translateTag(_[1], true)},{_[0]}</div>,
                       )}
                     </div>
                   </div>
