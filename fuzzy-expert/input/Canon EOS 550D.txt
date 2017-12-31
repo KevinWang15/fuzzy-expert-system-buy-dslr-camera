@@ -23,6 +23,6 @@
         5184,
         3456
     ],
-    "weight": null,
+    "weight": 500,
     "autoFocus": 9
 }

@@ -18,11 +18,11 @@
     "bluetooth": null,
     "gps": true,
     "isMetal": null,
-    "frameRate": null,
+    "frameRate": 4,
     "resolution": [
         4613,
         3485
     ],
     "weight": 195,
-    "autoFocus": null
+    "autoFocus": 6
 }

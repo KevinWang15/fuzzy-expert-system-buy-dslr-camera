@@ -33,9 +33,9 @@ files.forEach(file => {
     let data = JSON.parse(fs.readFileSync(path.join('./scraped', file), { encoding: "utf8" }));
     let resolution = parseResolution(data);
     //机身材质质量
-    let frameRate = parseFrameRate(data);
-    let weight = parseWeight(data);
-    let autoFocus = parseAutoFocus(data);
+    let frameRate = parseFrameRate(data) || 4;
+    let weight = parseWeight(data) || 500;
+    let autoFocus = parseAutoFocus(data) || 6;
     let iso = parseISO(data);
     let launchDate = parseLaunchDate(data);
     let touchScreen = parseTouchScreen(data);

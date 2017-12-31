@@ -23,6 +23,6 @@
         5108,
         3348
     ],
-    "weight": null,
-    "autoFocus": null
+    "weight": 500,
+    "autoFocus": 6
 }

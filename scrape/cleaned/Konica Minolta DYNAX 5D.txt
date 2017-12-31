@@ -23,6 +23,6 @@
         3016,
         2008
     ],
-    "weight": null,
-    "autoFocus": null
+    "weight": 500,
+    "autoFocus": 6
 }

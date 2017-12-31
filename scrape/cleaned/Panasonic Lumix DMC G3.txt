@@ -24,5 +24,5 @@
         3464
     ],
     "weight": 336,
-    "autoFocus": null
+    "autoFocus": 6
 }

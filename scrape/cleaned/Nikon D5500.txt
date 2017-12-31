@@ -23,6 +23,6 @@
         6016,
         4016
     ],
-    "weight": null,
+    "weight": 500,
     "autoFocus": 39
 }
