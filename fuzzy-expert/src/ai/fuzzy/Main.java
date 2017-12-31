@@ -2,15 +2,12 @@ package ai.fuzzy;
 
 import com.alibaba.fastjson.JSON;
 import net.sourceforge.jFuzzyLogic.FIS;
-import net.sourceforge.jFuzzyLogic.FunctionBlock;
-import net.sourceforge.jFuzzyLogic.plot.JFuzzyChart;
-import net.sourceforge.jFuzzyLogic.rule.Variable;
 
 import java.io.*;
 import java.nio.file.Paths;
 
 class CameraData {
-    public CameraAssesment assesment;
+    public CameraAssessment assessment;
     public String name;
     public String image;
     public String brand;
@@ -33,7 +30,7 @@ class CameraData {
     public boolean isMetal;
 }
 
-class CameraAssesment {
+class CameraAssessment {
     public double travel;
     public double event;
     public double sports;
@@ -48,19 +45,21 @@ class CameraAssesment {
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        // Read files
         File rootFolder = new File("input");
         for (final File fileEntry : rootFolder.listFiles()) {
             if (fileEntry.isFile()) {
                 CameraData camera = JSON.parseObject(readFileContents(fileEntry), CameraData.class);
-                camera.assesment = assess(camera);
-                String jsonString = JSON.toJSONString(camera, true);
-                PrintWriter out = new PrintWriter(Paths.get("result", fileEntry.getName()).toString());
-                out.print(jsonString);
-                out.close();
+                camera.assessment = assess(camera);
+                writeFile(fileEntry, JSON.toJSONString(camera, true));
                 break;
             }
         }
+    }
+
+    private static void writeFile(File fileEntry, String jsonString) throws FileNotFoundException {
+        PrintWriter out = new PrintWriter(Paths.get("result", fileEntry.getName()).toString());
+        out.print(jsonString);
+        out.close();
     }
 
     private static String readFileContents(File fileEntry) throws IOException {
@@ -75,12 +74,10 @@ public class Main {
         return sb.toString();
     }
 
-    static CameraAssesment assess(CameraData cameraData) {
-        CameraAssesment cameraAssesment = new CameraAssesment();
+    static CameraAssessment assess(CameraData cameraData) {
+        CameraAssessment cameraAssessment = new CameraAssessment();
         String fileName = "fcl/camera.fcl";
         FIS fis = FIS.load(fileName, true);
-        FunctionBlock functionBlock = fis.getFunctionBlock("camera");
-        JFuzzyChart.get().chart(functionBlock);
 
         // Set inputs
         fis.setVariable("price", cameraData.price);
@@ -99,24 +96,21 @@ public class Main {
         fis.setVariable("gps", cameraData.gps ? 1 : 0);
         fis.setVariable("isMetal", cameraData.isMetal ? 1 : 0);
 
-        // Show output variable's chart
-//        Variable price = functionBlock.getVariable("price");
-//        JFuzzyChart.get().chart(price, price.getDefuzzifier(), true);
-
         // Evaluate
         fis.evaluate();
 
-//        cameraAssesment.travel = fis.getVariable("travel").defuzzify();
-//        cameraAssesment.event = fis.getVariable("event").defuzzify();
-//        cameraAssesment.sports = fis.getVariable("sports").defuzzify();
-//        cameraAssesment.scenery = fis.getVariable("scenery").defuzzify();
-//        cameraAssesment.portrait = fis.getVariable("portrait").defuzzify();
-//        cameraAssesment.astronomy = fis.getVariable("astronomy").defuzzify();
-//        cameraAssesment.newModel = fis.getVariable("newModel").defuzzify();
-//        cameraAssesment.durableBuild = fis.getVariable("durableBuild").defuzzify();
-//        cameraAssesment.lightBuild = fis.getVariable("lightBuild").defuzzify();
-//        cameraAssesment.lowPrice = fis.getVariable("lowPrice").defuzzify();
+        // Save results to cameraAssessment
+        cameraAssessment.travel = fis.getVariable("travel").defuzzify();
+        cameraAssessment.event = fis.getVariable("event").defuzzify();
+        cameraAssessment.sports = fis.getVariable("sports").defuzzify();
+        cameraAssessment.scenery = fis.getVariable("scenery").defuzzify();
+        cameraAssessment.portrait = fis.getVariable("portrait").defuzzify();
+        cameraAssessment.astronomy = fis.getVariable("astronomy").defuzzify();
+        cameraAssessment.newModel = fis.getVariable("newModel").defuzzify();
+        cameraAssessment.durableBuild = fis.getVariable("durableBuild").defuzzify();
+        cameraAssessment.lightBuild = fis.getVariable("lightBuild").defuzzify();
+        cameraAssessment.lowPrice = fis.getVariable("lowPrice").defuzzify();
 
-        return cameraAssesment;
+        return cameraAssessment;
     }
 }

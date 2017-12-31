@@ -194,4 +194,77 @@ DEFUZZIFY lowPrice
 	DEFAULT := 0.5;
 END_DEFUZZIFY
 
+RULEBLOCK travel
+	AND : MIN;
+
+	RULE 1 : IF weight IS light OR video IS yes OR gps IS yes THEN travel IS good;
+	RULE 2 : IF weight IS heavy OR flash IS no THEN travel IS bad;
+END_RULEBLOCK
+
+RULEBLOCK event
+	AND : MIN;
+
+	RULE 1 : IF frameRate IS high OR gps IS yes OR bluetooth IS yes THEN event IS good;
+	RULE 2 : IF flash IS no THEN event IS bad;
+END_RULEBLOCK
+
+RULEBLOCK sports
+	AND : MIN;
+
+	RULE 1 : IF frameRate IS high OR autoFocus IS high THEN sports IS good;
+	RULE 2 : IF autoFocus IS low THEN sports IS bad;
+END_RULEBLOCK
+
+RULEBLOCK scenery
+	AND : MIN;
+
+	RULE 1 : IF pixels IS high OR pixelDepth IS high OR maxISO IS high OR gps IS yes THEN scenery IS good;
+	RULE 2 : IF pixelDepth IS low THEN scenery IS bad;
+END_RULEBLOCK
+
+RULEBLOCK portrait
+	AND : MIN;
+
+	RULE 1 : IF pixels IS high OR pixelDepth IS high THEN portrait IS good;
+	RULE 2 : IF pixelDepth IS low THEN portrait IS bad;
+END_RULEBLOCK
+
+RULEBLOCK astronomy
+	AND : MIN;
+
+	RULE 1 : IF pixels IS high OR pixelDepth IS high OR maxISO IS high THEN astronomy IS good;
+    	RULE 2 : IF maxISO IS low THEN astronomy IS bad;
+END_RULEBLOCK
+
+RULEBLOCK newModel
+	AND : MIN;
+
+	RULE 1 : IF launchDate IS antique THEN newModel IS bad;
+    	RULE 2 : IF launchDate IS earlier THEN newModel IS average;
+    	RULE 3 : IF launchDate IS recent THEN newModel IS good;
+END_RULEBLOCK
+
+RULEBLOCK durableBuild
+	AND : MIN;
+
+	RULE 1 : IF isMetal IS no THEN durableBuild IS bad;
+    	RULE 2 : IF isMetal IS yes THEN durableBuild IS good;
+END_RULEBLOCK
+
+RULEBLOCK lightBuild
+	AND : MIN;
+
+	RULE 1 : IF weight IS light THEN lightBuild IS bad;
+	RULE 1 : IF weight IS medium THEN lightBuild IS average;
+    	RULE 2 : IF weight IS heavy THEN lightBuild IS good;
+END_RULEBLOCK
+
+RULEBLOCK lowPrice
+	AND : MIN;
+
+	RULE 1 : IF price IS low THEN lowPrice IS bad;
+	RULE 1 : IF price IS medium THEN lowPrice IS average;
+    	RULE 2 : IF price IS high THEN lowPrice IS good;
+END_RULEBLOCK
+
 END_FUNCTION_BLOCK
