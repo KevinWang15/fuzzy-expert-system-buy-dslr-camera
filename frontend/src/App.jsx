@@ -10,6 +10,7 @@ export default class App extends React.Component {
     super();
     this.state = {
       selection: [[1, 0, 0, 1, 0, 0], [0, 1, 0, 0, 1], 1, 0, [0, 1]],
+      recommendations:[]
     };
   }
 
@@ -56,7 +57,7 @@ export default class App extends React.Component {
             </div>,
           )}
           <Button type="primary" onClick={() => {
-            console.log(rank(this.state.selection))
+            this.setState({recommendations:rank(this.state.selection)})
           }}>获得推荐</Button>
         </div>
       </Content>
