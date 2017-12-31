@@ -12,8 +12,8 @@ module.exports = {
           options: {
             presets: ["es2015", "react"],
             plugins: ["transform-object-rest-spread"],
-          }
-        }
+          },
+        },
       },
       {
         test: /\.css$/,
@@ -22,6 +22,9 @@ module.exports = {
     ],
   },
   entry: './src/index.js',
+  resolve: {
+    extensions: ['.js', '.jsx'],
+  },
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'index.js',
