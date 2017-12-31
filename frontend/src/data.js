@@ -4106,7 +4106,7 @@ let data = [
     "isMetal": true,
     "launchDate": 1445270400000,
     "maxISO": 50000,
-    "name": "Leica SL (Typ 601)",
+    "name": "Leica SL",
     "pixelDepth": 24,
     "pixels": 24160256,
     "price": 7450,

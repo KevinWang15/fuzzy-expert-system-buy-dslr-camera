@@ -1,0 +1,43 @@
+export default function translateTag(tag, inCons = false) {
+  let prosDict = {
+    '!lowPrice': '价格符合预算',
+    'lowPrice': '价格较低',
+    '!lightBuild': '',
+    'lightBuild': '相机轻',
+    'scenery': '拍摄风景效果好',
+    'travel': '合适旅行时使用',
+    'event': '合适记录活动',
+    'sports': '拍摄体育比赛效果好',
+    'portrait': '拍摄人像效果好',
+    'astronomy': '天文摄影效果好',
+    'flash': '有闪光灯',
+    'video': '可摄像',
+    'bluetooth': '可蓝牙传输照片',
+    'touchScreen': '有触摸屏',
+    'gps': '内置GPS',
+    'waterproof': '防水',
+    'newModel': '型号新',
+    'durableBuild': '机身质量好',
+  };
+  let consDict = {
+    '!lowPrice': '总体价格低于预算',
+    'lowPrice': '价格较高',
+    '!lightBuild': '相机重量偏轻',
+    'lightBuild': '相机较重',
+    'scenery': '不适合拍摄风景',
+    'travel': '不适合旅行时使用',
+    'event': '不适合记录活动',
+    'sports': '不适合拍摄体育比赛',
+    'portrait': '不适合拍摄人像',
+    'astronomy': '不适合天文摄影',
+    'flash': '没闪光灯',
+    'video': '不能摄像',
+    'bluetooth': '没有蓝牙',
+    'touchScreen': '没有触摸屏',
+    'gps': '没有GPS',
+    'waterproof': '不防水',
+    'newModel': '型号比较旧',
+    'durableBuild': '机身质量一般',
+  };
+  return inCons ? consDict[tag] : prosDict[tag];
+}
