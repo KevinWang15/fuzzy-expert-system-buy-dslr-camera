@@ -1,17 +1,18 @@
 {
 	"ISO":[100,3200],
-	"assesment":{
-		"astronomy":0.0,
-		"durableBuild":0.0,
-		"event":0.0,
-		"lightBuild":0.0,
-		"lowPrice":0.0,
-		"newModel":0.0,
-		"portrait":0.0,
-		"scenery":0.0,
-		"sports":0.0,
-		"travel":0.0
+	"assessment":{
+		"astronomy":0.194185086551265,
+		"durableBuild":0.16633333333333336,
+		"event":0.16633333333333336,
+		"lightBuild":0.5000000000000002,
+		"lowPrice":0.5267786245820895,
+		"newModel":0.43264548420363985,
+		"portrait":0.21998630136986289,
+		"scenery":0.21998630136986289,
+		"sports":0.1854488825487402,
+		"travel":0.16633333333333336
 	},
+	"autoFocus":6,
 	"bluetooth":false,
 	"brand":"Panasonic",
 	"flash":false,
@@ -28,5 +29,6 @@
 	"resolution":[4018,3016],
 	"touchScreen":false,
 	"video":false,
-	"waterproof":false
+	"waterproof":false,
+	"weight":500
 }

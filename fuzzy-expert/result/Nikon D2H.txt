@@ -1,17 +1,18 @@
 {
 	"ISO":[200,6400],
-	"assesment":{
-		"astronomy":0.0,
-		"durableBuild":0.0,
-		"event":0.0,
-		"lightBuild":0.0,
-		"lowPrice":0.0,
-		"newModel":0.0,
-		"portrait":0.0,
-		"scenery":0.0,
-		"sports":0.0,
-		"travel":0.0
+	"assessment":{
+		"astronomy":0.5,
+		"durableBuild":0.16633333333333336,
+		"event":0.16633333333333336,
+		"lightBuild":0.5000000000000002,
+		"lowPrice":0.5227113891679602,
+		"newModel":0.17173286989888037,
+		"portrait":0.17471991480298188,
+		"scenery":0.17471991480298188,
+		"sports":0.1854488825487402,
+		"travel":0.16633333333333336
 	},
+	"autoFocus":6,
 	"bluetooth":false,
 	"brand":"Nikon",
 	"flash":false,
@@ -28,5 +29,6 @@
 	"resolution":[2496,1648],
 	"touchScreen":false,
 	"video":false,
-	"waterproof":false
+	"waterproof":false,
+	"weight":500
 }

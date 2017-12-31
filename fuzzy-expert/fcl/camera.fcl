@@ -254,17 +254,17 @@ END_RULEBLOCK
 RULEBLOCK lightBuild
 	AND : MIN;
 
-	RULE 1 : IF weight IS light THEN lightBuild IS bad;
+	RULE 1 : IF weight IS heavy THEN lightBuild IS bad;
 	RULE 1 : IF weight IS medium THEN lightBuild IS average;
-    	RULE 2 : IF weight IS heavy THEN lightBuild IS good;
+    	RULE 2 : IF weight IS light THEN lightBuild IS good;
 END_RULEBLOCK
 
 RULEBLOCK lowPrice
 	AND : MIN;
 
-	RULE 1 : IF price IS low THEN lowPrice IS bad;
+	RULE 1 : IF price IS high THEN lowPrice IS bad;
 	RULE 1 : IF price IS medium THEN lowPrice IS average;
-    	RULE 2 : IF price IS high THEN lowPrice IS good;
+    	RULE 2 : IF price IS low THEN lowPrice IS good;
 END_RULEBLOCK
 
 END_FUNCTION_BLOCK

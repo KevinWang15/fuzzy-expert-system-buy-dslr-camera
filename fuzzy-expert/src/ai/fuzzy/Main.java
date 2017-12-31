@@ -51,7 +51,6 @@ public class Main {
                 CameraData camera = JSON.parseObject(readFileContents(fileEntry), CameraData.class);
                 camera.assessment = assess(camera);
                 writeFile(fileEntry, JSON.toJSONString(camera, true));
-                break;
             }
         }
     }
